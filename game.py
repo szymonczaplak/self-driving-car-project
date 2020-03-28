@@ -1,4 +1,6 @@
 import os
+from time import sleep
+
 import pygame
 from Car import Car
 from Map import Map
@@ -23,8 +25,8 @@ class Game:
         map = Map(scale)
 
         while not self.exit:
-            print(car.position, car.angle)
-            dt = self.clock.get_time() / 1000.0
+            #print(car.position, car.angle)
+
             # Event queue
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:
@@ -39,12 +41,22 @@ class Game:
                 car.angle = (car.angle + 2) % 360
 
             # Logic
-            car.update(dt)
-            print(car.calculate_distances(map, scale))
+            car.update()
+            #print("Car angle: ", car.angle)
+
 
             # Drawing
             self.screen.fill((0, 0, 0))
             map.draw(self.screen, [0, 255, 0])
+
+            # draw inside
+
+            s, A = car.calculate_distances(map)
+            print("Distance: ", s)
+            pygame.draw.circle(self.screen, [255,0,0], [int(el) for el in A], 5)
+            # pygame.draw.circle(self.screen, [255,0,0], [int(el) for el in B], 5)
+            # pygame.draw.circle(self.screen, [255,0,0], [int(el) for el in C], 5)
+
 
             rotated = pygame.transform.rotate(car_image, car.angle)
             rect = rotated.get_rect()
