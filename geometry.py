@@ -10,6 +10,8 @@ def line_intersection(L1, L2):
     D  = L1[0] * L2[1] - L1[1] * L2[0]
     Dx = L1[2] * L2[1] - L1[1] * L2[2]
     Dy = L1[0] * L2[2] - L1[2] * L2[0]
+
+    # print(f"D = {D} for L1 = {L1} and L2 = {L2}")
     if D != 0:
         x = Dx / D
         y = Dy / D

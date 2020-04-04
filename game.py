@@ -13,7 +13,7 @@ class Game:
         height = 1200
         self.screen = pygame.display.set_mode((width, height))
         self.clock = pygame.time.Clock()
-        self.ticks = 60
+        self.ticks = 20
         self.exit = False
 
     def run(self):
@@ -51,11 +51,14 @@ class Game:
 
             # draw inside
 
-            s, A = car.calculate_distances(map)
-            print("Distance: ", s)
-            pygame.draw.circle(self.screen, [255,0,0], [int(el) for el in A], 5)
-            # pygame.draw.circle(self.screen, [255,0,0], [int(el) for el in B], 5)
-            # pygame.draw.circle(self.screen, [255,0,0], [int(el) for el in C], 5)
+            distance_point_tuples = car.calculate_distances(map)
+            for distance, point in distance_point_tuples:
+                print(f"Distance: {distance}")
+                if distance < 10:
+
+                    # COLISION!
+                    car = Car(2 * scale,  5 * scale)
+                pygame.draw.circle(self.screen, [255,0,0], [int(el) for el in point], 5)
 
 
             rotated = pygame.transform.rotate(car_image, car.angle)
