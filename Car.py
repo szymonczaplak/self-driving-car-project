@@ -98,8 +98,8 @@ class Car:
             dist = (arr[:, 0] - x) ** 2 + (arr[:, 1] - y) ** 2
             return arr[dist.argmin()]
         except:
-            print(f"WARNING, in_array = {in_array} x={x}, y={y}")
-            sleep(10)
+            print(f"WARNING, in_array = {in_array} x={x}, y={y}") # TODO: fix it
+            return (x + 700, y + 700)
 
     def check_colision(self, map: Map):
         x = self.position.x
