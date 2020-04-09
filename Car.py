@@ -77,13 +77,13 @@ class Car:
 
         for detector in [detector_straight, detector_left, detector_right, detector_left_2, detector_right_2]:
 
-            possible_intersections_straight_out \
+            possible_intersections_out \
                 = self.find_possible_intersections(map.out_path, detector)
 
-            possible_intersections_straight_in \
+            possible_intersections_in \
                 = self.find_possible_intersections(map.in_path, detector)
 
-            possible_intersections_straight = possible_intersections_straight_out  + possible_intersections_straight_in
+            possible_intersections_straight = possible_intersections_out  + possible_intersections_in
             # closest_point_straight = possible_intersections_straight[0]
             closest_point_straight = Car.closest_point(possible_intersections_straight, self.position.x, self.position.y)
 
@@ -100,11 +100,6 @@ class Car:
         except:
             print(f"WARNING, in_array = {in_array} x={x}, y={y}") # TODO: fix it
             return (x + 700, y + 700)
-
-    def check_colision(self, map: Map):
-        x = self.position.x
-        y = self.position.y
-        pass
 
 
 def rotate(origin, point, angle):

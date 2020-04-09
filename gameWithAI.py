@@ -1,11 +1,11 @@
-import csv
 import os
-from time import sleep
-from Agent import Agent
+
+import numpy as np
 import pygame
+
+from Agent import Agent
 from Car import Car
 from Map import Map
-import numpy as np
 
 
 class Game:
@@ -24,7 +24,7 @@ class Game:
         image_path = os.path.join(current_dir, "car.png")
         car_image = pygame.image.load(image_path)
         scale = 40
-        car = Car(2 * scale, 5 * scale)
+        car = Car(2 * scale, 5 * scale, angle=270)
         map = Map(scale)
         agent = Agent()
 
