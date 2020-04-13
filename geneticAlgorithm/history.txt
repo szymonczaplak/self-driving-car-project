@@ -1,0 +1,1426 @@
+
+EPOCH 0
+Model: 
+{'id': '1b1e267c-8a9e-4fa1-b184-b298b676c96c', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [120], 'dense_layers_number': 5, 'dense_neurons': [19, 113, 224, 75, 276], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': '28295f52-3d33-4283-97e6-b950b0bcfbd5', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 22, 77, 31], 'dense_layers_number': 3, 'dense_neurons': [263, 315, 111], 'polynomial_exponent': 1}
+Grade: 19806
+Model: 
+{'id': '1ebf27c0-dc48-48ea-bfd7-3953bfb596b9', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [75], 'dense_layers_number': 5, 'dense_neurons': [21, 305, 283, 347, 175], 'polynomial_exponent': 1}
+Grade: 19805
+Model: 
+{'id': '1ec46d1f-ecc7-43a5-b53a-60d76cfe8302', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [46, 64], 'dense_layers_number': 4, 'dense_neurons': [398, 204, 62, 26], 'polynomial_exponent': 3}
+Grade: 19804
+Model: 
+{'id': '5f9ad698-e6f0-4804-8404-da1b819c090a', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [118, 78, 63, 55], 'dense_layers_number': 4, 'dense_neurons': [339, 391, 117, 184], 'polynomial_exponent': 3}
+Grade: 19795
+Model: 
+{'id': 'a686dab8-d69e-46a5-8aa3-57f82690ccf3', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [109], 'dense_layers_number': 4, 'dense_neurons': [46, 91, 287, 116], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '0ac9c1df-ea30-4f47-bfc7-88ffa64613fa', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [112], 'dense_layers_number': 3, 'dense_neurons': [387, 282, 24], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': '0c025f8f-2f13-4151-8c43-a90f7d370a4c', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [57], 'dense_layers_number': 1, 'dense_neurons': [75], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '3281fdd4-fee3-4312-b9ee-5878c57a52b4', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [43, 48], 'dense_layers_number': 5, 'dense_neurons': [279, 389, 383, 295, 255], 'polynomial_exponent': 1}
+Grade: 19906
+Model: 
+{'id': 'e24b5905-d79d-466c-9931-287b24e92165', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [45, 20, 18], 'dense_layers_number': 3, 'dense_neurons': [133, 322, 360], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '47ac334c-4308-46c9-91ce-f336c03f8a8a', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [87], 'dense_layers_number': 5, 'dense_neurons': [178, 131, 206, 320, 348], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': 'cca15574-de00-4b7c-8476-0d1b351a7a3a', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [110, 75], 'dense_layers_number': 3, 'dense_neurons': [24, 103, 276], 'polynomial_exponent': 3}
+Grade: 19806
+Model: 
+{'id': 'bd374436-5387-479b-9e68-b76bbc8ba070', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [24, 51, 78, 49], 'dense_layers_number': 3, 'dense_neurons': [121, 385, 193], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': 'c6d1e49b-dffe-4d4e-9500-dd49907b5b7c', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [128, 38], 'dense_layers_number': 1, 'dense_neurons': [173], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': '86350f05-29b7-431d-81b7-1df03472e037', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [76], 'dense_layers_number': 2, 'dense_neurons': [52, 226], 'polynomial_exponent': 3}
+Grade: 19806
+Model: 
+{'id': '63053033-74a0-45a7-8d89-db5b348cd034', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [97], 'dense_layers_number': 5, 'dense_neurons': [334, 61, 276, 149, 362], 'polynomial_exponent': 3}
+Grade: 19806
+Model: 
+{'id': '921718b2-ec8a-4a1b-afdd-bd474c7630bc', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [26, 63, 127, 63], 'dense_layers_number': 5, 'dense_neurons': [280, 156, 214, 391, 361], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '4c9bda39-7ab3-42e9-9afd-83b885165772', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [26, 34, 50], 'dense_layers_number': 2, 'dense_neurons': [59, 324], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '55a163b3-2ee4-4913-84f5-1fce865e7c91', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [88], 'dense_layers_number': 5, 'dense_neurons': [46, 181, 330, 15, 116], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': '9ac2dba0-4748-4458-a64a-1329eb1a1601', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [59, 50, 129, 47], 'dense_layers_number': 1, 'dense_neurons': [339], 'polynomial_exponent': 3}
+Grade: 19806
+
+EPOCH 1
+Model: 
+{'id': '5f9ad698-e6f0-4804-8404-da1b819c090a', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [118, 78, 63, 55], 'dense_layers_number': 4, 'dense_neurons': [339, 391, 117, 184], 'polynomial_exponent': 3}
+Grade: 19795
+Model: 
+{'id': '1ec46d1f-ecc7-43a5-b53a-60d76cfe8302', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [46, 64], 'dense_layers_number': 4, 'dense_neurons': [398, 204, 62, 26], 'polynomial_exponent': 3}
+Grade: 19804
+Model: 
+{'id': '1ebf27c0-dc48-48ea-bfd7-3953bfb596b9', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [75], 'dense_layers_number': 5, 'dense_neurons': [21, 305, 283, 347, 175], 'polynomial_exponent': 1}
+Grade: 19805
+Model: 
+{'id': 'a686dab8-d69e-46a5-8aa3-57f82690ccf3', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [109], 'dense_layers_number': 4, 'dense_neurons': [46, 91, 287, 116], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': 'c6d1e49b-dffe-4d4e-9500-dd49907b5b7c', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [128, 38], 'dense_layers_number': 1, 'dense_neurons': [173], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': 'e7e52d95-6794-4161-8863-0f51ab98d28d', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [34, 99, 41], 'dense_layers_number': 4, 'dense_neurons': [209, 254, 172, 26], 'polynomial_exponent': 3}
+Grade: 19806
+Model: 
+{'id': 'b4b5d042-7ef5-445d-9333-94e58890b3ca', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [33, 92], 'dense_layers_number': 4, 'dense_neurons': [21, 348, 200, 265], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': 'a29d8585-6cdd-467d-b73c-fe6c44359e38', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [113, 78, 63, 55], 'dense_layers_number': 3, 'dense_neurons': [253, 216, 132], 'polynomial_exponent': 2}
+Grade: 19518
+Model: 
+{'id': '454cf60d-9342-4d39-8900-76fc08465f8e', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [109], 'dense_layers_number': 3, 'dense_neurons': [293, 160, 226], 'polynomial_exponent': 3}
+Grade: 19806
+Model: 
+{'id': '2cdf45a6-3bd9-424d-b820-122ccbf1fe14', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [92], 'dense_layers_number': 2, 'dense_neurons': [60, 227], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': '304967c1-eaad-4fd0-96b6-c0681c363d14', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [112], 'dense_layers_number': 5, 'dense_neurons': [21, 198, 285, 347, 175], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '3fd0ed84-ba83-49ca-983d-34baf023564e', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [46], 'dense_layers_number': 4, 'dense_neurons': [109, 91, 287, 116], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '607d6682-1e9c-4bf6-a7d3-8e3627bba042', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [26], 'dense_layers_number': 4, 'dense_neurons': [180, 391, 283, 347], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': 'a8ab5c73-0497-441a-a93a-34ff4b1146c4', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [30, 72], 'dense_layers_number': 4, 'dense_neurons': [109, 91, 287, 116], 'polynomial_exponent': 2}
+Grade: 19803
+Model: 
+{'id': '6c00ade1-cfc7-4909-a87a-6e89a0bac227', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [75, 64], 'dense_layers_number': 4, 'dense_neurons': [74, 141, 324, 217], 'polynomial_exponent': 3}
+Grade: 19806
+Model: 
+{'id': '1a86a456-ae54-4d4b-8cc8-b279a1fe4af0', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [108, 47, 99, 53], 'dense_layers_number': 4, 'dense_neurons': [109, 91, 287, 116], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '3d4cab1f-8822-4dba-8b61-1bbd3dad527a', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [109, 64], 'dense_layers_number': 3, 'dense_neurons': [401, 368, 18], 'polynomial_exponent': 2}
+Grade: 19804
+Model: 
+{'id': '2b03707d-974a-455a-8d82-0c8bd16dc811', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [41, 52, 109], 'dense_layers_number': 4, 'dense_neurons': [339, 297, 62, 105], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': '25626223-587d-44f1-bada-59e421d271f7', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [41, 81, 118, 100], 'dense_layers_number': 4, 'dense_neurons': [151, 34, 51, 286], 'polynomial_exponent': 1}
+Grade: 19794
+Model: 
+{'id': '042109f1-c5e3-4d92-863e-080ba4963bb8', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [125], 'dense_layers_number': 4, 'dense_neurons': [339, 241, 202, 184], 'polynomial_exponent': 3}
+Grade: 19806
+
+EPOCH 2
+Model: 
+{'id': 'a29d8585-6cdd-467d-b73c-fe6c44359e38', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [113, 78, 63, 55], 'dense_layers_number': 3, 'dense_neurons': [253, 216, 132], 'polynomial_exponent': 2}
+Grade: 19518
+Model: 
+{'id': '25626223-587d-44f1-bada-59e421d271f7', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [41, 81, 118, 100], 'dense_layers_number': 4, 'dense_neurons': [151, 34, 51, 286], 'polynomial_exponent': 1}
+Grade: 19794
+Model: 
+{'id': '5f9ad698-e6f0-4804-8404-da1b819c090a', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [118, 78, 63, 55], 'dense_layers_number': 4, 'dense_neurons': [339, 391, 117, 184], 'polynomial_exponent': 3}
+Grade: 19795
+Model: 
+{'id': 'a8ab5c73-0497-441a-a93a-34ff4b1146c4', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [30, 72], 'dense_layers_number': 4, 'dense_neurons': [109, 91, 287, 116], 'polynomial_exponent': 2}
+Grade: 19803
+Model: 
+{'id': '76b0d0f6-182b-4a2e-8817-5f21a767014e', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [100, 90, 122], 'dense_layers_number': 5, 'dense_neurons': [135, 386, 168, 210, 299], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '90b04f3c-e844-4949-8eb9-853401a50fdd', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [64], 'dense_layers_number': 3, 'dense_neurons': [109, 153, 209], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': '45213d1c-85bc-437f-a230-5a86ba4bd2a0', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [79, 81, 90, 100], 'dense_layers_number': 4, 'dense_neurons': [207, 207, 20, 79], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': '13ea0122-82d1-48d4-878c-e5816e527f36', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [28, 71], 'dense_layers_number': 4, 'dense_neurons': [245, 391, 51, 286], 'polynomial_exponent': 1}
+Grade: 19805
+Model: 
+{'id': 'cba828ba-bf78-429d-a8d1-1dac1f8250e5', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [76, 57, 116, 65], 'dense_layers_number': 4, 'dense_neurons': [151, 212, 84, 235], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': '827ac411-8584-4d30-9b25-c4b8fe448121', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [113, 78, 63, 55], 'dense_layers_number': 4, 'dense_neurons': [271, 221, 352, 221], 'polynomial_exponent': 2}
+Grade: 19802
+Model: 
+{'id': 'c164793d-02de-426e-a62d-4fc84b473179', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [20, 112], 'dense_layers_number': 4, 'dense_neurons': [18, 69, 296, 262], 'polynomial_exponent': 1}
+Grade: 19896
+Model: 
+{'id': 'dfa02e66-92d3-41b6-90ed-e556c32aaa2a', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [77, 81, 63, 100], 'dense_layers_number': 3, 'dense_neurons': [219, 25, 261], 'polynomial_exponent': 1}
+Grade: 19794
+Model: 
+{'id': 'd3dadda1-3c38-442c-b58f-8a56f9115c61', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [56, 71, 31, 92], 'dense_layers_number': 4, 'dense_neurons': [339, 212, 117, 184], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '460d8ffa-2313-41cf-a9b0-93d64ecfb9f0', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [36, 101, 73], 'dense_layers_number': 4, 'dense_neurons': [339, 91, 287, 150], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '4b9b40a6-32bc-4d33-9c9a-1d0d8ac98a87', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [65, 113, 47, 71], 'dense_layers_number': 4, 'dense_neurons': [245, 34, 84, 286], 'polynomial_exponent': 1}
+Grade: 19801
+Model: 
+{'id': 'f5f483a3-0337-4d4b-972c-23b03f269c92', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [115, 78, 63, 55], 'dense_layers_number': 5, 'dense_neurons': [291, 66, 10, 127, 275], 'polynomial_exponent': 2}
+Grade: 19798
+Model: 
+{'id': '20f160de-ee79-4be4-9b6e-1268474505c8', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [46, 23], 'dense_layers_number': 3, 'dense_neurons': [151, 34, 51], 'polynomial_exponent': 1}
+Grade: 19804
+Model: 
+{'id': 'bf0f240b-6e65-47f5-bb03-76bb5bac48d1', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 125, 89, 48], 'dense_layers_number': 4, 'dense_neurons': [109, 62, 51, 116], 'polynomial_exponent': 1}
+Grade: 19784
+Model: 
+{'id': '0baa2143-ece6-4768-9d3b-2eec298b8499', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [111, 86, 30, 71], 'dense_layers_number': 3, 'dense_neurons': [109, 153, 287], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': 'af49f20a-0c3b-462d-bb0d-01b5c97878d0', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [118, 75, 63, 55], 'dense_layers_number': 2, 'dense_neurons': [64, 139], 'polynomial_exponent': 3}
+Grade: 19805
+
+EPOCH 3
+Model: 
+{'id': 'a29d8585-6cdd-467d-b73c-fe6c44359e38', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [113, 78, 63, 55], 'dense_layers_number': 3, 'dense_neurons': [253, 216, 132], 'polynomial_exponent': 2}
+Grade: 19518
+Model: 
+{'id': 'bf0f240b-6e65-47f5-bb03-76bb5bac48d1', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 125, 89, 48], 'dense_layers_number': 4, 'dense_neurons': [109, 62, 51, 116], 'polynomial_exponent': 1}
+Grade: 19784
+Model: 
+{'id': '25626223-587d-44f1-bada-59e421d271f7', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [41, 81, 118, 100], 'dense_layers_number': 4, 'dense_neurons': [151, 34, 51, 286], 'polynomial_exponent': 1}
+Grade: 19794
+Model: 
+{'id': 'dfa02e66-92d3-41b6-90ed-e556c32aaa2a', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [77, 81, 63, 100], 'dense_layers_number': 3, 'dense_neurons': [219, 25, 261], 'polynomial_exponent': 1}
+Grade: 19794
+Model: 
+{'id': '460d8ffa-2313-41cf-a9b0-93d64ecfb9f0', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [36, 101, 73], 'dense_layers_number': 4, 'dense_neurons': [339, 91, 287, 150], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': 'd192b4aa-b4f6-42e2-abed-34df7ce28675', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [56, 91, 68, 100], 'dense_layers_number': 3, 'dense_neurons': [35, 78, 130], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '397e2ec3-46cf-4197-84d3-042c2559722d', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [123, 23, 98], 'dense_layers_number': 3, 'dense_neurons': [339, 25, 274], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '28ff03c7-1eb4-4f98-80e5-919395b61d28', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [127, 93], 'dense_layers_number': 3, 'dense_neurons': [279, 58, 287], 'polynomial_exponent': 1}
+Grade: 19791
+Model: 
+{'id': '32505f78-79fb-4fd4-a828-571aec79f782', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [126, 59, 122, 93], 'dense_layers_number': 3, 'dense_neurons': [339, 58, 274], 'polynomial_exponent': 1}
+Grade: 19790
+Model: 
+{'id': '90954e9c-8bbc-4b17-b0a9-aacecd267e20', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [19], 'dense_layers_number': 4, 'dense_neurons': [130, 48, 51, 116], 'polynomial_exponent': 3}
+Grade: 19936
+Model: 
+{'id': '046ffa27-7eb6-42e7-aec3-00bd0cba0c75', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [38, 91, 95, 100], 'dense_layers_number': 4, 'dense_neurons': [400, 34, 273, 248], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '101c7dbd-0bfe-4974-8aa9-e52df9812867', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [67, 103, 118, 74], 'dense_layers_number': 4, 'dense_neurons': [346, 368, 396, 10], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': 'a586afb3-a513-418e-b7da-42ed72a39369', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [69, 22, 25, 109], 'dense_layers_number': 4, 'dense_neurons': [151, 29, 156, 286], 'polynomial_exponent': 1}
+Grade: 19797
+Model: 
+{'id': 'ae4f14cb-ec83-4e69-8ca3-6387dcb0c425', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [65, 61, 88, 102], 'dense_layers_number': 3, 'dense_neurons': [236, 216, 196], 'polynomial_exponent': 1}
+Grade: 19533
+Model: 
+{'id': 'a1472ef0-cee2-4875-ac42-61b2913f009e', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [23, 50, 85], 'dense_layers_number': 3, 'dense_neurons': [226, 241, 237], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '297f4a80-3b56-4641-a92e-b33d1e7e148a', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [59, 81, 90, 100], 'dense_layers_number': 5, 'dense_neurons': [376, 399, 109, 316, 358], 'polynomial_exponent': 1}
+Grade: 19936
+Model: 
+{'id': 'b71a0a5e-3520-4628-bced-132048fa5b99', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [95, 81, 63, 55], 'dense_layers_number': 3, 'dense_neurons': [297, 154, 130], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': 'fd117be0-bfc8-44b8-b08a-6cb938237fae', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [61, 129, 75], 'dense_layers_number': 4, 'dense_neurons': [245, 91, 287, 286], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': 'bbc35f53-4dbb-4218-9495-8e220afbf917', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [59, 81, 63, 100], 'dense_layers_number': 2, 'dense_neurons': [214, 204], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': 'ada0bb6d-9ff9-4060-abf4-9143e287649a', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [64, 122, 92, 65], 'dense_layers_number': 4, 'dense_neurons': [339, 76, 169, 150], 'polynomial_exponent': 1}
+Grade: 19936
+
+EPOCH 4
+Model: 
+{'id': 'a29d8585-6cdd-467d-b73c-fe6c44359e38', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [113, 78, 63, 55], 'dense_layers_number': 3, 'dense_neurons': [253, 216, 132], 'polynomial_exponent': 2}
+Grade: 19518
+Model: 
+{'id': 'ae4f14cb-ec83-4e69-8ca3-6387dcb0c425', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [65, 61, 88, 102], 'dense_layers_number': 3, 'dense_neurons': [236, 216, 196], 'polynomial_exponent': 1}
+Grade: 19533
+Model: 
+{'id': 'bf0f240b-6e65-47f5-bb03-76bb5bac48d1', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 125, 89, 48], 'dense_layers_number': 4, 'dense_neurons': [109, 62, 51, 116], 'polynomial_exponent': 1}
+Grade: 19784
+Model: 
+{'id': '32505f78-79fb-4fd4-a828-571aec79f782', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [126, 59, 122, 93], 'dense_layers_number': 3, 'dense_neurons': [339, 58, 274], 'polynomial_exponent': 1}
+Grade: 19790
+Model: 
+{'id': '76db57ad-d3f7-4153-8643-9a27b8defceb', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [78, 78], 'dense_layers_number': 3, 'dense_neurons': [236, 216, 164], 'polynomial_exponent': 2}
+Grade: 19795
+Model: 
+{'id': 'd1d66ac6-d49e-4935-8fa7-7f28e8626d46', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [79, 93, 88, 75], 'dense_layers_number': 3, 'dense_neurons': [349, 181, 82], 'polynomial_exponent': 1}
+Grade: 19882
+Model: 
+{'id': '95a9401d-6aa9-45ec-ba5c-519259cac843', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [23, 27, 51, 87], 'dense_layers_number': 3, 'dense_neurons': [109, 216, 91], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': '665d2a67-47f8-48fd-bdc8-6d4cec07d9c7', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [61, 68, 35, 55], 'dense_layers_number': 3, 'dense_neurons': [253, 216, 164], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '50b3f56e-7bc5-4ba2-9b25-4884f7ce1786', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [80, 48, 74, 117], 'dense_layers_number': 3, 'dense_neurons': [172, 139, 123], 'polynomial_exponent': 1}
+Grade: 19801
+Model: 
+{'id': '9850faf9-4705-417c-8240-16b8a7d98422', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [103, 101, 63, 51], 'dense_layers_number': 4, 'dense_neurons': [249, 64, 279, 306], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': '8a9afe8a-5fee-46c9-b667-a2c3e498db24', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [79, 93, 89, 75], 'dense_layers_number': 3, 'dense_neurons': [386, 104, 219], 'polynomial_exponent': 1}
+Grade: 19798
+Model: 
+{'id': 'ccb3c003-60cb-42ca-b08a-76638a242f81', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [33, 84, 91], 'dense_layers_number': 3, 'dense_neurons': [236, 139, 123], 'polynomial_exponent': 1}
+Grade: 19804
+Model: 
+{'id': '946e2179-37fa-487c-a246-93328576efab', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [79, 93, 88, 75], 'dense_layers_number': 4, 'dense_neurons': [364, 15, 131, 16], 'polynomial_exponent': 1}
+Grade: 19792
+Model: 
+{'id': '3caecb97-7aa9-4a7c-81de-a0ac070ba991', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [18, 40, 39, 38], 'dense_layers_number': 4, 'dense_neurons': [224, 60, 274, 116], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '8acc3e3a-15b7-41ed-a653-9f531c8d87d5', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [118], 'dense_layers_number': 4, 'dense_neurons': [339, 62, 274, 116], 'polynomial_exponent': 1}
+Grade: 19806
+Model: 
+{'id': 'e9e578ed-f32d-4f58-bb80-72440507bfec', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [61], 'dense_layers_number': 3, 'dense_neurons': [236, 216, 164], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': 'ff9e814c-17cf-4525-9d94-8efde5a0776e', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [110, 102, 39, 119], 'dense_layers_number': 4, 'dense_neurons': [10, 162, 149, 138], 'polynomial_exponent': 3}
+Grade: 19804
+Model: 
+{'id': '9a79b433-9e23-415c-8423-4791e7555988', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [38, 44], 'dense_layers_number': 3, 'dense_neurons': [109, 139, 91], 'polynomial_exponent': 1}
+Grade: 19792
+Model: 
+{'id': 'f04f9af1-bcde-4a84-aa8e-6b0d9b6fdbe8', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [126, 68, 122, 74], 'dense_layers_number': 2, 'dense_neurons': [290, 179], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '0264a736-e513-43bf-a4c1-069548722d58', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [117, 81, 92, 54], 'dense_layers_number': 3, 'dense_neurons': [244, 216, 196], 'polynomial_exponent': 3}
+Grade: 19805
+
+EPOCH 5
+Model: 
+{'id': 'a29d8585-6cdd-467d-b73c-fe6c44359e38', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [113, 78, 63, 55], 'dense_layers_number': 3, 'dense_neurons': [253, 216, 132], 'polynomial_exponent': 2}
+Grade: 19518
+Model: 
+{'id': 'ae4f14cb-ec83-4e69-8ca3-6387dcb0c425', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [65, 61, 88, 102], 'dense_layers_number': 3, 'dense_neurons': [236, 216, 196], 'polynomial_exponent': 1}
+Grade: 19533
+Model: 
+{'id': 'bf0f240b-6e65-47f5-bb03-76bb5bac48d1', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 125, 89, 48], 'dense_layers_number': 4, 'dense_neurons': [109, 62, 51, 116], 'polynomial_exponent': 1}
+Grade: 19784
+Model: 
+{'id': '32505f78-79fb-4fd4-a828-571aec79f782', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [126, 59, 122, 93], 'dense_layers_number': 3, 'dense_neurons': [339, 58, 274], 'polynomial_exponent': 1}
+Grade: 19790
+Model: 
+{'id': '15639e29-53d4-4273-82cd-ea70b1a14fbe', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [113, 78, 122, 74], 'dense_layers_number': 3, 'dense_neurons': [358, 318, 66], 'polynomial_exponent': 1}
+Grade: 19802
+Model: 
+{'id': '9b0b9ba5-e584-4d66-a0f9-700dd807917e', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [101, 26, 58, 106], 'dense_layers_number': 3, 'dense_neurons': [172, 139, 196], 'polynomial_exponent': 3}
+Grade: 19806
+Model: 
+{'id': '12f550a8-5934-42fe-8f47-b9e357cfef13', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [119, 68, 63, 74], 'dense_layers_number': 3, 'dense_neurons': [272, 107, 185], 'polynomial_exponent': 3}
+Grade: 19798
+Model: 
+{'id': 'f2d2b4d8-6305-4b20-ae11-e93524ff56d7', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [113, 78, 75, 102], 'dense_layers_number': 2, 'dense_neurons': [152, 107], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '30112fa8-0218-478e-a22e-6d01da3d577f', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [33, 92, 42, 70], 'dense_layers_number': 3, 'dense_neurons': [109, 139, 123], 'polynomial_exponent': 2}
+Grade: 19803
+Model: 
+{'id': '6b204672-5242-4907-abac-6e8b9e246bd7', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [101, 91, 55], 'dense_layers_number': 3, 'dense_neurons': [339, 71, 263], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '403c0905-1d3f-42f9-8071-bf512f4d75ec', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [107, 103, 85, 120], 'dense_layers_number': 4, 'dense_neurons': [224, 58, 162, 116], 'polynomial_exponent': 1}
+Grade: 19793
+Model: 
+{'id': 'fd3e5e29-0f2e-472e-9468-40bc27c1049e', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [103, 63], 'dense_layers_number': 3, 'dense_neurons': [109, 139, 91], 'polynomial_exponent': 2}
+Grade: 19937
+Model: 
+{'id': '89a99aaf-223b-487e-90b3-ba67b2c519fc', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [103, 38, 38, 29], 'dense_layers_number': 3, 'dense_neurons': [172, 62, 51], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': 'f71a0ed2-da6b-474c-b6c9-67ee67a04b42', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [119, 68, 122, 74], 'dense_layers_number': 5, 'dense_neurons': [250, 184, 281, 29, 87], 'polynomial_exponent': 1}
+Grade: 19936
+Model: 
+{'id': '4d9d09e6-029d-4aae-90e4-e323d4a41458', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 92, 89, 93], 'dense_layers_number': 3, 'dense_neurons': [271, 141, 223], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '6f7b58b7-0db6-436a-8527-43db7f8ca018', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [32, 106, 122, 77], 'dense_layers_number': 3, 'dense_neurons': [181, 62, 91], 'polynomial_exponent': 3}
+Grade: 19806
+Model: 
+{'id': '408970ae-e6b7-442b-8b45-66c2c615a697', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [100], 'dense_layers_number': 3, 'dense_neurons': [287, 137, 196], 'polynomial_exponent': 3}
+Grade: 19806
+Model: 
+{'id': 'bd658739-4853-499c-b031-dc5be1ea35b7', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [119, 52, 125, 106], 'dense_layers_number': 3, 'dense_neurons': [253, 139, 132], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': 'bb25f318-bc56-48a3-aebd-1aa23fcd2f81', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [19, 121, 116, 75], 'dense_layers_number': 3, 'dense_neurons': [236, 216, 196], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '575e3698-c231-408a-88c2-b793e8e3c890', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [114], 'dense_layers_number': 3, 'dense_neurons': [287, 137, 235], 'polynomial_exponent': 3}
+Grade: 19804
+
+EPOCH 6
+Model: 
+{'id': 'a29d8585-6cdd-467d-b73c-fe6c44359e38', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [113, 78, 63, 55], 'dense_layers_number': 3, 'dense_neurons': [253, 216, 132], 'polynomial_exponent': 2}
+Grade: 19518
+Model: 
+{'id': 'ae4f14cb-ec83-4e69-8ca3-6387dcb0c425', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [65, 61, 88, 102], 'dense_layers_number': 3, 'dense_neurons': [236, 216, 196], 'polynomial_exponent': 1}
+Grade: 19533
+Model: 
+{'id': 'bf0f240b-6e65-47f5-bb03-76bb5bac48d1', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 125, 89, 48], 'dense_layers_number': 4, 'dense_neurons': [109, 62, 51, 116], 'polynomial_exponent': 1}
+Grade: 19784
+Model: 
+{'id': '32505f78-79fb-4fd4-a828-571aec79f782', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [126, 59, 122, 93], 'dense_layers_number': 3, 'dense_neurons': [339, 58, 274], 'polynomial_exponent': 1}
+Grade: 19790
+Model: 
+{'id': '3e6bfe98-27f5-4537-b497-8d9ee40082bb', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [54, 39, 118, 38], 'dense_layers_number': 3, 'dense_neurons': [181, 62, 91], 'polynomial_exponent': 1}
+Grade: 19552
+Model: 
+{'id': '33462bcc-fd5b-4e95-b633-26860eec6125', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [17, 104, 20, 125], 'dense_layers_number': 3, 'dense_neurons': [287, 58, 196], 'polynomial_exponent': 1}
+Grade: 19936
+Model: 
+{'id': 'b859d4ab-188d-45d3-ad02-1d268baeb328', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [38, 124, 50, 107], 'dense_layers_number': 3, 'dense_neurons': [109, 139, 196], 'polynomial_exponent': 1}
+Grade: 19797
+Model: 
+{'id': 'f3e18008-a7ea-4fac-851f-1b9a5351ddcc', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [42, 26, 67, 27], 'dense_layers_number': 3, 'dense_neurons': [236, 62, 51], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '4535e1eb-0f9f-49c7-aa67-f45c9e50eadf', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [82], 'dense_layers_number': 3, 'dense_neurons': [253, 216, 196], 'polynomial_exponent': 1}
+Grade: 19805
+Model: 
+{'id': '74103407-1c15-4a9f-9752-fa2abd27c016', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [89, 69, 88, 55], 'dense_layers_number': 3, 'dense_neurons': [166, 77, 105], 'polynomial_exponent': 1}
+Grade: 19800
+Model: 
+{'id': 'b8d3436a-2722-47bd-b3a3-2a539e0e0b37', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [39, 47, 103, 56], 'dense_layers_number': 3, 'dense_neurons': [109, 216, 123], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': 'b9c0c6a0-4b5d-4a2a-a0af-6f9f76c29b95', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [28], 'dense_layers_number': 3, 'dense_neurons': [172, 139, 123], 'polynomial_exponent': 1}
+Grade: 19805
+Model: 
+{'id': '7b817b83-9547-4af8-8796-9a9234a1f15f', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [67], 'dense_layers_number': 3, 'dense_neurons': [236, 216, 164], 'polynomial_exponent': 2}
+Grade: 19794
+Model: 
+{'id': '54cb66d5-65af-4ff5-bd6a-f5c42c618a4c', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [80, 90], 'dense_layers_number': 3, 'dense_neurons': [236, 137, 196], 'polynomial_exponent': 2}
+Grade: 19799
+Model: 
+{'id': 'a757b71a-544f-49e2-abfe-2926658c6a44', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [109, 92, 89, 48], 'dense_layers_number': 1, 'dense_neurons': [125], 'polynomial_exponent': 1}
+Grade: 19787
+Model: 
+{'id': 'f1aeda2e-ffaa-412d-832c-2c448fde6cfd', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [129, 97, 62, 54], 'dense_layers_number': 3, 'dense_neurons': [236, 62, 123], 'polynomial_exponent': 1}
+Grade: 19794
+Model: 
+{'id': 'dbb00312-73ec-45f8-a36f-211e660ca90e', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [65, 93, 88, 48], 'dense_layers_number': 3, 'dense_neurons': [71, 115, 226], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': '7a0d7793-6cc7-48ee-8907-e547c39c95b4', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [79, 93, 88, 75], 'dense_layers_number': 5, 'dense_neurons': [379, 370, 63, 329, 183], 'polynomial_exponent': 1}
+Grade: 19789
+Model: 
+{'id': 'bc9bab89-31e3-420a-9ed7-95f423cd4d0e', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [121, 69, 101], 'dense_layers_number': 3, 'dense_neurons': [172, 139, 196], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': '7c15b0fe-5493-4445-bf16-7fff3ee99580', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [62, 44, 48], 'dense_layers_number': 3, 'dense_neurons': [45, 187, 270], 'polynomial_exponent': 2}
+Grade: 19805
+
+EPOCH 7
+Model: 
+{'id': 'a29d8585-6cdd-467d-b73c-fe6c44359e38', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [113, 78, 63, 55], 'dense_layers_number': 3, 'dense_neurons': [253, 216, 132], 'polynomial_exponent': 2}
+Grade: 19518
+Model: 
+{'id': 'ae4f14cb-ec83-4e69-8ca3-6387dcb0c425', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [65, 61, 88, 102], 'dense_layers_number': 3, 'dense_neurons': [236, 216, 196], 'polynomial_exponent': 1}
+Grade: 19533
+Model: 
+{'id': '3e6bfe98-27f5-4537-b497-8d9ee40082bb', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [54, 39, 118, 38], 'dense_layers_number': 3, 'dense_neurons': [181, 62, 91], 'polynomial_exponent': 1}
+Grade: 19552
+Model: 
+{'id': 'bf0f240b-6e65-47f5-bb03-76bb5bac48d1', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 125, 89, 48], 'dense_layers_number': 4, 'dense_neurons': [109, 62, 51, 116], 'polynomial_exponent': 1}
+Grade: 19784
+Model: 
+{'id': 'a3e61a54-df1a-4e44-a93f-6bf5ce8adbe6', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [59, 50, 103, 102], 'dense_layers_number': 2, 'dense_neurons': [299, 152], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': '1fdd738d-a4c1-4c5b-9187-69a7c3cba485', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [85, 30], 'dense_layers_number': 3, 'dense_neurons': [181, 139, 51], 'polynomial_exponent': 1}
+Grade: 19791
+Model: 
+{'id': '0bc285c6-c428-4aec-aa08-81a15b498b89', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [79, 61, 88, 48], 'dense_layers_number': 3, 'dense_neurons': [321, 385, 363], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': 'b825136d-5cf5-47d5-a59c-e8f7f3a8d27b', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [113, 58, 90, 46], 'dense_layers_number': 3, 'dense_neurons': [36, 111, 63], 'polynomial_exponent': 1}
+Grade: 19806
+Model: 
+{'id': 'd81fed7c-2911-44b3-9c28-c375d277573e', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [54, 39, 63, 55], 'dense_layers_number': 2, 'dense_neurons': [241, 86], 'polynomial_exponent': 2}
+Grade: 19803
+Model: 
+{'id': '7cfb9362-055a-4303-aec2-4e752ba0d87a', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [101, 26, 39], 'dense_layers_number': 3, 'dense_neurons': [109, 62, 71], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': 'a9469ba5-7251-4fad-ac63-f3524c178d0b', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [57, 18, 21, 58], 'dense_layers_number': 3, 'dense_neurons': [109, 139, 123], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '27388061-1529-440e-b9ca-3534d1b80dea', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [21, 56, 38, 96], 'dense_layers_number': 3, 'dense_neurons': [145, 62, 91], 'polynomial_exponent': 1}
+Grade: 19805
+Model: 
+{'id': 'efda7a0b-079f-4a0f-aa6a-a98416f226aa', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [119], 'dense_layers_number': 3, 'dense_neurons': [181, 139, 91], 'polynomial_exponent': 1}
+Grade: 19805
+Model: 
+{'id': '587be411-e626-4a5d-8903-5f684c1c3c4e', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [106, 107, 52, 79], 'dense_layers_number': 3, 'dense_neurons': [244, 216, 164], 'polynomial_exponent': 3}
+Grade: 19806
+Model: 
+{'id': 'a01b52d3-8cc5-459b-b7bc-4feb245f910a', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [54, 78, 90, 46], 'dense_layers_number': 3, 'dense_neurons': [162, 307, 135], 'polynomial_exponent': 4}
+Grade: 19803
+Model: 
+{'id': 'a8d6fa18-0b3c-42fd-a7dc-c33adb9bf3e8', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [65, 78, 63, 102], 'dense_layers_number': 3, 'dense_neurons': [153, 91, 166], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': '5a9db03c-223b-453d-b789-459943cc59d2', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [45, 92, 64, 60], 'dense_layers_number': 3, 'dense_neurons': [208, 216, 143], 'polynomial_exponent': 1}
+Grade: 19785
+Model: 
+{'id': 'db0503cf-b0b9-4839-bf03-92d7b1910041', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [52, 23, 46, 56], 'dense_layers_number': 3, 'dense_neurons': [145, 62, 91], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': 'ed224279-8cfd-4d12-92b6-6115439eccc6', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [117, 96, 53], 'dense_layers_number': 3, 'dense_neurons': [181, 62, 196], 'polynomial_exponent': 4}
+Grade: 19795
+Model: 
+{'id': 'd7da7d6b-ff46-4517-b4dc-8180f121c621', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [124, 52], 'dense_layers_number': 3, 'dense_neurons': [172, 139, 51], 'polynomial_exponent': 3}
+Grade: 19806
+
+EPOCH 0
+Model: 
+{'id': 'a29d8585-6cdd-467d-b73c-fe6c44359e38', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [113, 78, 63, 55], 'dense_layers_number': 3, 'dense_neurons': [253, 216, 132], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': 'ae4f14cb-ec83-4e69-8ca3-6387dcb0c425', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [65, 61, 88, 102], 'dense_layers_number': 3, 'dense_neurons': [236, 216, 196], 'polynomial_exponent': 1}
+Grade: 19790
+Model: 
+{'id': '3e6bfe98-27f5-4537-b497-8d9ee40082bb', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [54, 39, 118, 38], 'dense_layers_number': 3, 'dense_neurons': [181, 62, 91], 'polynomial_exponent': 1}
+Grade: 19805
+Model: 
+{'id': 'bf0f240b-6e65-47f5-bb03-76bb5bac48d1', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 125, 89, 48], 'dense_layers_number': 4, 'dense_neurons': [109, 62, 51, 116], 'polynomial_exponent': 1}
+Grade: 19785
+Model: 
+{'id': 'c10b9f0f-7e35-4771-87b0-a811f189cc6b', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [124], 'dense_layers_number': 3, 'dense_neurons': [83, 346, 350], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '8c5918a7-c402-4b26-909a-dac9cb70292e', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [86, 39, 52, 64], 'dense_layers_number': 2, 'dense_neurons': [235, 101], 'polynomial_exponent': 2}
+Grade: 19798
+Model: 
+{'id': 'dd805986-41d2-4cf9-b854-e4accdd7086d', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [33, 35, 46], 'dense_layers_number': 5, 'dense_neurons': [236, 58, 104, 213, 220], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '255ba5c1-089d-430a-ad65-39e128fdb7e8', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [51, 71, 52], 'dense_layers_number': 5, 'dense_neurons': [122, 96, 45, 202, 159], 'polynomial_exponent': 1}
+Grade: 19792
+Model: 
+{'id': 'a4c11b8b-d764-4e30-9e05-6dbd00fdb8ac', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [63, 51], 'dense_layers_number': 4, 'dense_neurons': [122, 157, 205, 134], 'polynomial_exponent': 3}
+Grade: 19806
+Model: 
+{'id': '600d0587-1ecc-4925-acbb-3b7641fcd867', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [28, 117, 22], 'dense_layers_number': 2, 'dense_neurons': [195, 275], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': 'df377272-37eb-4c52-b1e3-331c5d03a5d6', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [77, 67, 71], 'dense_layers_number': 2, 'dense_neurons': [150, 320], 'polynomial_exponent': 3}
+Grade: 19806
+Model: 
+{'id': 'c32fa2d3-bed6-48f0-bd87-30d39700228a', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [124], 'dense_layers_number': 2, 'dense_neurons': [85, 187], 'polynomial_exponent': 1}
+Grade: 19806
+Model: 
+{'id': 'e903c876-306d-40ec-b607-f48cabf1c3d3', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [58], 'dense_layers_number': 2, 'dense_neurons': [87, 332], 'polynomial_exponent': 4}
+Grade: 19932
+Model: 
+{'id': '531e6694-21a1-4c5f-a219-b10fde08b345', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [71, 25, 58, 69], 'dense_layers_number': 4, 'dense_neurons': [76, 59, 216, 281], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '26988a25-f667-4d90-8ef4-288ef44aa0cd', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [108, 48, 66], 'dense_layers_number': 5, 'dense_neurons': [73, 246, 130, 298, 342], 'polynomial_exponent': 1}
+Grade: 19791
+Model: 
+{'id': '83a7a87c-75b6-441e-96de-2fe484e29ff5', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [75, 41], 'dense_layers_number': 4, 'dense_neurons': [126, 154, 54, 295], 'polynomial_exponent': 4}
+Grade: 19798
+Model: 
+{'id': '8041e483-8f2f-45c8-85fd-0851f6c49049', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [43, 40, 52, 54], 'dense_layers_number': 3, 'dense_neurons': [215, 284, 308], 'polynomial_exponent': 3}
+Grade: 19806
+Model: 
+{'id': '4108edbd-6338-4ebb-ae44-bb9806a995ae', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [91, 28], 'dense_layers_number': 2, 'dense_neurons': [283, 75], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': 'e8c4a563-7d09-42e4-896a-fdb285a19ef1', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [72], 'dense_layers_number': 3, 'dense_neurons': [358, 265, 122], 'polynomial_exponent': 2}
+Grade: 19804
+Model: 
+{'id': '3c19915b-58f8-4b89-ab40-bc2a3687f173', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [65], 'dense_layers_number': 1, 'dense_neurons': [188], 'polynomial_exponent': 3}
+Grade: 19806
+
+EPOCH 1
+Model: 
+{'id': 'bf0f240b-6e65-47f5-bb03-76bb5bac48d1', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 125, 89, 48], 'dense_layers_number': 4, 'dense_neurons': [109, 62, 51, 116], 'polynomial_exponent': 1}
+Grade: 19785
+Model: 
+{'id': 'ae4f14cb-ec83-4e69-8ca3-6387dcb0c425', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [65, 61, 88, 102], 'dense_layers_number': 3, 'dense_neurons': [236, 216, 196], 'polynomial_exponent': 1}
+Grade: 19790
+Model: 
+{'id': '26988a25-f667-4d90-8ef4-288ef44aa0cd', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [108, 48, 66], 'dense_layers_number': 2, 'dense_neurons': [85, 120], 'polynomial_exponent': 1}
+Grade: 19792
+Model: 
+{'id': '255ba5c1-089d-430a-ad65-39e128fdb7e8', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [51, 71, 52], 'dense_layers_number': 5, 'dense_neurons': [122, 96, 45, 202, 159], 'polynomial_exponent': 1}
+Grade: 19792
+Model: 
+{'id': '0efe3793-fdac-4341-83a0-ec3e4d810363', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [121, 83, 120], 'dense_layers_number': 1, 'dense_neurons': [180], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': '010ec53a-516e-45eb-9858-745f60313f94', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [108, 48, 59], 'dense_layers_number': 4, 'dense_neurons': [18, 392, 296, 104], 'polynomial_exponent': 1}
+Grade: 19937
+Model: 
+{'id': 'c31b7d25-2462-4d60-8470-dce87f1e5dda', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [44, 67, 31], 'dense_layers_number': 3, 'dense_neurons': [179, 216, 45], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '4b90a53d-2981-41b4-b7c2-bdfc78574c3c', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [57, 124, 93], 'dense_layers_number': 2, 'dense_neurons': [122, 108], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '359eba45-3c6a-42a5-897d-0d7d24338c64', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [108, 71, 52], 'dense_layers_number': 2, 'dense_neurons': [54, 85], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '64560eca-7397-4ef3-815c-b4a3aa8ec615', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [51, 48, 59], 'dense_layers_number': 4, 'dense_neurons': [30, 264, 294, 256], 'polynomial_exponent': 1}
+Grade: 19790
+Model: 
+{'id': '7184f4c4-7a24-4396-8a05-26e0f26427a0', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [111, 128, 69], 'dense_layers_number': 5, 'dense_neurons': [312, 32, 246, 332, 340], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': 'e0c6e43a-1e67-4113-8e9b-d2c9c55e8d43', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [67, 27, 125, 29], 'dense_layers_number': 4, 'dense_neurons': [109, 216, 51, 116], 'polynomial_exponent': 3}
+Grade: 19801
+Model: 
+{'id': '99a66080-0707-4bc6-9dcd-ba31673513f4', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [27, 127, 39], 'dense_layers_number': 3, 'dense_neurons': [236, 156, 120], 'polynomial_exponent': 1}
+Grade: 19788
+Model: 
+{'id': '98d69940-a3dc-4883-b72f-483005ef3d6a', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [79, 125, 88, 48], 'dense_layers_number': 3, 'dense_neurons': [253, 113, 391], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '22207506-e1a3-46cb-a594-f9150a98f284', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [97, 25, 103], 'dense_layers_number': 2, 'dense_neurons': [122, 120], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '36ef4852-3016-45d8-a2dc-838db47ce2c6', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [67], 'dense_layers_number': 3, 'dense_neurons': [248, 44, 21], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '6b850ec5-db92-4e33-9105-224806952e91', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [92, 116, 122], 'dense_layers_number': 4, 'dense_neurons': [122, 79, 51, 116], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': 'f01520f2-9ecd-42df-b05d-977c7197c33c', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [100, 125, 77, 48], 'dense_layers_number': 3, 'dense_neurons': [109, 180, 35], 'polynomial_exponent': 1}
+Grade: 19793
+Model: 
+{'id': 'a2ad2d8d-4e23-42ad-98ea-8ed0778b936e', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [58, 71, 52, 102], 'dense_layers_number': 4, 'dense_neurons': [27, 217, 390, 300], 'polynomial_exponent': 1}
+Grade: 19936
+Model: 
+{'id': '7831d916-8d1e-47bf-aab2-1409f1565399', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [51, 59, 59], 'dense_layers_number': 1, 'dense_neurons': [218], 'polynomial_exponent': 1}
+Grade: 19806
+
+EPOCH 0
+Model: 
+{'id': 'bf0f240b-6e65-47f5-bb03-76bb5bac48d1', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 125, 89, 48], 'dense_layers_number': 4, 'dense_neurons': [109, 62, 51, 116], 'polynomial_exponent': 1}
+Grade: 19791
+Model: 
+{'id': 'ae4f14cb-ec83-4e69-8ca3-6387dcb0c425', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [65, 61, 88, 102], 'dense_layers_number': 3, 'dense_neurons': [236, 216, 196], 'polynomial_exponent': 1}
+Grade: 19800
+Model: 
+{'id': '26988a25-f667-4d90-8ef4-288ef44aa0cd', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [108, 48, 66], 'dense_layers_number': 2, 'dense_neurons': [85, 120], 'polynomial_exponent': 1}
+Grade: 19792
+Model: 
+{'id': '255ba5c1-089d-430a-ad65-39e128fdb7e8', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [51, 71, 52], 'dense_layers_number': 5, 'dense_neurons': [122, 96, 45, 202, 159], 'polynomial_exponent': 1}
+Grade: 19790
+Model: 
+{'id': '0efe3793-fdac-4341-83a0-ec3e4d810363', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [121, 83, 120], 'dense_layers_number': 1, 'dense_neurons': [180], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '010ec53a-516e-45eb-9858-745f60313f94', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [108, 48, 59], 'dense_layers_number': 4, 'dense_neurons': [18, 392, 296, 104], 'polynomial_exponent': 1}
+Grade: 19793
+Model: 
+{'id': 'c31b7d25-2462-4d60-8470-dce87f1e5dda', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [44, 67, 31], 'dense_layers_number': 3, 'dense_neurons': [179, 216, 45], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '4b90a53d-2981-41b4-b7c2-bdfc78574c3c', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [57, 124, 93], 'dense_layers_number': 2, 'dense_neurons': [122, 108], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '359eba45-3c6a-42a5-897d-0d7d24338c64', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [108, 71, 52], 'dense_layers_number': 2, 'dense_neurons': [54, 85], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '64560eca-7397-4ef3-815c-b4a3aa8ec615', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [51, 48, 59], 'dense_layers_number': 4, 'dense_neurons': [30, 264, 294, 256], 'polynomial_exponent': 1}
+Grade: 19937
+Model: 
+{'id': '7184f4c4-7a24-4396-8a05-26e0f26427a0', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [111, 128, 69], 'dense_layers_number': 5, 'dense_neurons': [312, 32, 246, 332, 340], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': 'e0c6e43a-1e67-4113-8e9b-d2c9c55e8d43', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [67, 27, 125, 29], 'dense_layers_number': 4, 'dense_neurons': [109, 216, 51, 116], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '99a66080-0707-4bc6-9dcd-ba31673513f4', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [27, 127, 39], 'dense_layers_number': 3, 'dense_neurons': [236, 156, 120], 'polynomial_exponent': 1}
+Grade: 19805
+Model: 
+{'id': '98d69940-a3dc-4883-b72f-483005ef3d6a', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [79, 125, 88, 48], 'dense_layers_number': 3, 'dense_neurons': [253, 113, 391], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '22207506-e1a3-46cb-a594-f9150a98f284', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [97, 25, 103], 'dense_layers_number': 2, 'dense_neurons': [122, 120], 'polynomial_exponent': 2}
+Grade: 19801
+Model: 
+{'id': '36ef4852-3016-45d8-a2dc-838db47ce2c6', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [67], 'dense_layers_number': 3, 'dense_neurons': [248, 44, 21], 'polynomial_exponent': 3}
+Grade: 19797
+Model: 
+{'id': '6b850ec5-db92-4e33-9105-224806952e91', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [92, 116, 122], 'dense_layers_number': 4, 'dense_neurons': [122, 79, 51, 116], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': 'f01520f2-9ecd-42df-b05d-977c7197c33c', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [100, 125, 77, 48], 'dense_layers_number': 3, 'dense_neurons': [109, 180, 35], 'polynomial_exponent': 1}
+Grade: 19795
+Model: 
+{'id': 'a2ad2d8d-4e23-42ad-98ea-8ed0778b936e', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [58, 71, 52, 102], 'dense_layers_number': 4, 'dense_neurons': [27, 217, 390, 300], 'polynomial_exponent': 1}
+Grade: 19790
+Model: 
+{'id': '7831d916-8d1e-47bf-aab2-1409f1565399', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [51, 59, 59], 'dense_layers_number': 1, 'dense_neurons': [218], 'polynomial_exponent': 1}
+Grade: 19805
+
+EPOCH 1
+Model: 
+{'id': '255ba5c1-089d-430a-ad65-39e128fdb7e8', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [51, 71, 52], 'dense_layers_number': 5, 'dense_neurons': [122, 96, 45, 202, 159], 'polynomial_exponent': 1}
+Grade: 19790
+Model: 
+{'id': 'a2ad2d8d-4e23-42ad-98ea-8ed0778b936e', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [58, 71, 52, 102], 'dense_layers_number': 4, 'dense_neurons': [27, 217, 390, 300], 'polynomial_exponent': 1}
+Grade: 19790
+Model: 
+{'id': 'bf0f240b-6e65-47f5-bb03-76bb5bac48d1', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 125, 89, 48], 'dense_layers_number': 4, 'dense_neurons': [109, 62, 51, 116], 'polynomial_exponent': 1}
+Grade: 19791
+Model: 
+{'id': '26988a25-f667-4d90-8ef4-288ef44aa0cd', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [108, 48, 66], 'dense_layers_number': 2, 'dense_neurons': [85, 120], 'polynomial_exponent': 1}
+Grade: 19792
+Model: 
+{'id': '8607e58d-487f-4bdf-8803-698b69c0f290', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [58, 59, 59, 102], 'dense_layers_number': 2, 'dense_neurons': [299, 289], 'polynomial_exponent': 3}
+Grade: 19806
+Model: 
+{'id': '1f0b09e6-7315-4462-9f63-64fd8d02a9e0', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [27, 30, 98, 107], 'dense_layers_number': 4, 'dense_neurons': [97, 91, 51, 116], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': 'b6db770d-1686-4eeb-9d69-4e21a5709436', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [127, 90, 23, 85], 'dense_layers_number': 4, 'dense_neurons': [67, 359, 255, 99], 'polynomial_exponent': 3}
+Grade: 19796
+Model: 
+{'id': 'b2cd5633-07af-4d12-9fc4-c0b8711e9aa6', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [72, 125, 89], 'dense_layers_number': 4, 'dense_neurons': [279, 262, 309, 346], 'polynomial_exponent': 1}
+Grade: 19936
+Model: 
+{'id': '12c3d628-3ad0-4ff1-ad60-aefe930dcad7', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 66, 48], 'dense_layers_number': 4, 'dense_neurons': [298, 21, 291, 398], 'polynomial_exponent': 1}
+Grade: 19552
+Model: 
+{'id': '2a89963d-f4e8-4224-ac83-74a17cc04f92', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [80, 48, 123], 'dense_layers_number': 5, 'dense_neurons': [122, 96, 45, 202, 159], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': 'a3d93a37-60bf-403d-9a40-5646a6a02b54', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [27, 40, 114], 'dense_layers_number': 3, 'dense_neurons': [141, 102, 209], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': '1ca4af99-1cd2-4520-a313-4d51ac4dd8af', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [105, 16, 27], 'dense_layers_number': 4, 'dense_neurons': [85, 217, 390, 300], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': 'e45b930d-cfc5-42f8-918c-c82e7fab4ad1', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 77, 48], 'dense_layers_number': 5, 'dense_neurons': [39, 264, 346, 117, 393], 'polynomial_exponent': 1}
+Grade: 19559
+Model: 
+{'id': '41c59d09-af8d-430f-8448-0929b7b4f776', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [92, 62, 28, 85], 'dense_layers_number': 4, 'dense_neurons': [68, 217, 51, 208], 'polynomial_exponent': 1}
+Grade: 19802
+Model: 
+{'id': '960baaaf-a708-4288-be95-0c4c8dbea3fb', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [100, 125, 77, 48], 'dense_layers_number': 4, 'dense_neurons': [396, 217, 242, 176], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': 'fd8cd63a-b709-47b2-bcc1-1effb0e33260', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [58, 59, 52, 102], 'dense_layers_number': 4, 'dense_neurons': [204, 178, 91, 112], 'polynomial_exponent': 2}
+Grade: 19794
+Model: 
+{'id': 'a5ad5017-e2e8-413f-a86e-6dbacfb22d35', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [89, 86, 40], 'dense_layers_number': 2, 'dense_neurons': [138, 220], 'polynomial_exponent': 2}
+Grade: 19796
+Model: 
+{'id': '29de6163-ad76-4360-bebe-ea303df1eb7a', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [52, 33], 'dense_layers_number': 4, 'dense_neurons': [97, 91, 51, 116], 'polynomial_exponent': 1}
+Grade: 19799
+Model: 
+{'id': 'dc8a1cad-7176-4963-8497-7e185bc863ec', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [122, 67, 95], 'dense_layers_number': 3, 'dense_neurons': [240, 370, 182], 'polynomial_exponent': 1}
+Grade: 19783
+Model: 
+{'id': '73a6f0e7-6514-41b3-a217-23f1e1b5b44d', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [117, 42, 102], 'dense_layers_number': 5, 'dense_neurons': [122, 96, 390, 251, 159], 'polynomial_exponent': 4}
+Grade: 19805
+
+EPOCH 2
+Model: 
+{'id': '12c3d628-3ad0-4ff1-ad60-aefe930dcad7', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 66, 48], 'dense_layers_number': 4, 'dense_neurons': [298, 21, 291, 398], 'polynomial_exponent': 1}
+Grade: 19552
+Model: 
+{'id': 'e45b930d-cfc5-42f8-918c-c82e7fab4ad1', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 77, 48], 'dense_layers_number': 5, 'dense_neurons': [39, 264, 346, 117, 393], 'polynomial_exponent': 1}
+Grade: 19559
+Model: 
+{'id': 'dc8a1cad-7176-4963-8497-7e185bc863ec', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [122, 67, 95], 'dense_layers_number': 3, 'dense_neurons': [240, 370, 182], 'polynomial_exponent': 1}
+Grade: 19783
+Model: 
+{'id': '255ba5c1-089d-430a-ad65-39e128fdb7e8', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [51, 71, 52], 'dense_layers_number': 5, 'dense_neurons': [122, 96, 45, 202, 159], 'polynomial_exponent': 1}
+Grade: 19790
+Model: 
+{'id': '53a7a231-9cb0-46ad-be40-c0ee4abdea64', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [99], 'dense_layers_number': 3, 'dense_neurons': [21, 295, 335], 'polynomial_exponent': 2}
+Grade: 19802
+Model: 
+{'id': '26f38a42-8420-4240-9ad4-5df4e1c3ee36', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 71, 48], 'dense_layers_number': 3, 'dense_neurons': [230, 101, 371], 'polynomial_exponent': 1}
+Grade: 19793
+Model: 
+{'id': '5e895d56-284f-48ad-a0ed-ecea3a4a2a03', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [121, 65, 128], 'dense_layers_number': 3, 'dense_neurons': [240, 96, 182], 'polynomial_exponent': 1}
+Grade: 19789
+Model: 
+{'id': 'e5a95c3d-5419-47d4-b4ed-b30866003b0c', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [122, 57, 80, 48], 'dense_layers_number': 2, 'dense_neurons': [247, 98], 'polynomial_exponent': 1}
+Grade: 19790
+Model: 
+{'id': '109abad4-ce3d-4c2f-bd6d-6949fd9f4791', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [72, 71, 52, 48], 'dense_layers_number': 3, 'dense_neurons': [242, 388, 238], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': 'ed37e55e-2f6f-4583-83a5-fcbc8c8f1601', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [54, 112, 86], 'dense_layers_number': 5, 'dense_neurons': [80, 96, 195, 117, 159], 'polynomial_exponent': 3}
+Grade: 19804
+Model: 
+{'id': '3592ed3a-0ed2-415c-ba40-6a430f2017a7', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [103, 73, 18], 'dense_layers_number': 5, 'dense_neurons': [80, 96, 195, 202, 276], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': '07e47114-af61-4855-b96b-db65bdafd3fe', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [62, 125, 86, 121], 'dense_layers_number': 4, 'dense_neurons': [39, 264, 291, 117], 'polynomial_exponent': 1}
+Grade: 19794
+Model: 
+{'id': '593f8129-fa1e-4dbf-a08c-7551818dddc6', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [105, 91, 41, 73], 'dense_layers_number': 3, 'dense_neurons': [122, 233, 45], 'polynomial_exponent': 1}
+Grade: 19554
+Model: 
+{'id': '648515ab-e860-4b09-9ea8-debc9ab5fe13', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 52, 48], 'dense_layers_number': 4, 'dense_neurons': [348, 108, 25, 355], 'polynomial_exponent': 3}
+Grade: 19806
+Model: 
+{'id': '9e7af3ae-dd33-456f-937a-57459fad56a3', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [46, 33, 96, 70], 'dense_layers_number': 3, 'dense_neurons': [314, 346, 117], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '5eea04f9-91f3-4110-a3aa-bd3b02ce90af', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 66, 48], 'dense_layers_number': 5, 'dense_neurons': [98, 361, 200, 37, 249], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': 'bd96a2f9-11e7-4ecc-964e-428129350b9a', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 66, 48], 'dense_layers_number': 3, 'dense_neurons': [323, 273, 101], 'polynomial_exponent': 1}
+Grade: 19552
+Model: 
+{'id': '301b8231-a7cb-4139-b04a-d95ccf655ba4', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [86, 69, 73], 'dense_layers_number': 4, 'dense_neurons': [254, 180, 145, 22], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '009582d4-bba7-4d87-8a53-cb14555b2d1d', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [122, 67, 95, 48], 'dense_layers_number': 4, 'dense_neurons': [108, 111, 259, 314], 'polynomial_exponent': 4}
+Grade: 19804
+Model: 
+{'id': 'e421d467-bc99-448c-a9b9-9be81a06cd14', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [39, 31, 57, 21], 'dense_layers_number': 5, 'dense_neurons': [240, 317, 264, 117, 393], 'polynomial_exponent': 2}
+Grade: 19805
+
+EPOCH 3
+Model: 
+{'id': '12c3d628-3ad0-4ff1-ad60-aefe930dcad7', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 66, 48], 'dense_layers_number': 4, 'dense_neurons': [298, 21, 291, 398], 'polynomial_exponent': 1}
+Grade: 19552
+Model: 
+{'id': 'bd96a2f9-11e7-4ecc-964e-428129350b9a', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 66, 48], 'dense_layers_number': 3, 'dense_neurons': [323, 273, 101], 'polynomial_exponent': 1}
+Grade: 19552
+Model: 
+{'id': '593f8129-fa1e-4dbf-a08c-7551818dddc6', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [105, 91, 41, 73], 'dense_layers_number': 3, 'dense_neurons': [122, 233, 45], 'polynomial_exponent': 1}
+Grade: 19554
+Model: 
+{'id': 'e45b930d-cfc5-42f8-918c-c82e7fab4ad1', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 77, 48], 'dense_layers_number': 5, 'dense_neurons': [39, 264, 346, 117, 393], 'polynomial_exponent': 1}
+Grade: 19559
+Model: 
+{'id': 'c6ad85aa-6c41-4395-9f94-1dce4fdf9c9f', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [111, 24, 107, 110], 'dense_layers_number': 4, 'dense_neurons': [310, 147, 291, 398], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': 'cd7fd21c-ce77-4c5d-8dca-46b353ce1ace', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 77, 48], 'dense_layers_number': 5, 'dense_neurons': [375, 123, 141, 112, 329], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': 'ba8a5a2c-03ce-4048-b975-8deb43488eac', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 71, 48], 'dense_layers_number': 3, 'dense_neurons': [64, 161, 22], 'polynomial_exponent': 1}
+Grade: 19793
+Model: 
+{'id': 'd5390664-dc38-4333-a43e-3439be6b02ee', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 66, 48], 'dense_layers_number': 2, 'dense_neurons': [277, 171], 'polynomial_exponent': 1}
+Grade: 19794
+Model: 
+{'id': 'b15d4463-46c5-4e29-a34d-d9e39be718cf', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 69, 59, 73], 'dense_layers_number': 1, 'dense_neurons': [366], 'polynomial_exponent': 1}
+Grade: 19793
+Model: 
+{'id': 'b378c3fd-56a1-4381-82e5-001dec463e6f', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [90], 'dense_layers_number': 3, 'dense_neurons': [122, 248, 195], 'polynomial_exponent': 1}
+Grade: 19806
+Model: 
+{'id': '882d5fb4-27d2-4331-99ee-10cca0903d03', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 69, 66, 73], 'dense_layers_number': 3, 'dense_neurons': [78, 184, 265], 'polynomial_exponent': 3}
+Grade: 19804
+Model: 
+{'id': 'fc811bc6-1407-41cc-96dd-30e32b23553d', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [113, 65, 50, 90], 'dense_layers_number': 3, 'dense_neurons': [80, 248, 195], 'polynomial_exponent': 2}
+Grade: 19803
+Model: 
+{'id': 'e83f57db-4f10-4e3d-aaa9-05b0eb4519db', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 69, 66, 48], 'dense_layers_number': 4, 'dense_neurons': [16, 295, 290, 277], 'polynomial_exponent': 1}
+Grade: 19792
+Model: 
+{'id': 'c6124fc0-418a-497f-80dd-97cfcb64a931', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 71, 48], 'dense_layers_number': 2, 'dense_neurons': [59, 163], 'polynomial_exponent': 1}
+Grade: 19788
+Model: 
+{'id': '1db25249-51dc-4fbe-8209-020da2785952', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 77, 48], 'dense_layers_number': 4, 'dense_neurons': [12, 375, 278, 365], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '5ea33651-9ab8-45db-ba0a-10eb087a3ce8', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 66, 48], 'dense_layers_number': 4, 'dense_neurons': [22, 255, 291, 150], 'polynomial_exponent': 1}
+Grade: 19791
+Model: 
+{'id': 'f887b4e7-0a93-461d-9416-838c31df45da', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [82, 91, 72, 93], 'dense_layers_number': 3, 'dense_neurons': [80, 264, 346], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '2d923dbf-ae54-47de-9721-72a6555a15c5', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [105, 91, 41, 73], 'dense_layers_number': 4, 'dense_neurons': [89, 145, 227, 283], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '2fe41a55-0f34-4994-9fba-ee348216db49', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [83], 'dense_layers_number': 4, 'dense_neurons': [168, 264, 318, 257], 'polynomial_exponent': 3}
+Grade: 19794
+Model: 
+{'id': '32d511a5-a0ca-4c89-b867-2dcbae136409', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 69, 41, 60], 'dense_layers_number': 3, 'dense_neurons': [71, 222, 185], 'polynomial_exponent': 1}
+Grade: 19934
+
+EPOCH 4
+Model: 
+{'id': '12c3d628-3ad0-4ff1-ad60-aefe930dcad7', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 66, 48], 'dense_layers_number': 4, 'dense_neurons': [298, 21, 291, 398], 'polynomial_exponent': 1}
+Grade: 19552
+Model: 
+{'id': 'bd96a2f9-11e7-4ecc-964e-428129350b9a', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 66, 48], 'dense_layers_number': 3, 'dense_neurons': [323, 273, 101], 'polynomial_exponent': 1}
+Grade: 19552
+Model: 
+{'id': '593f8129-fa1e-4dbf-a08c-7551818dddc6', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [105, 91, 41, 73], 'dense_layers_number': 3, 'dense_neurons': [122, 233, 45], 'polynomial_exponent': 1}
+Grade: 19554
+Model: 
+{'id': 'e45b930d-cfc5-42f8-918c-c82e7fab4ad1', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 77, 48], 'dense_layers_number': 5, 'dense_neurons': [39, 264, 346, 117, 393], 'polynomial_exponent': 1}
+Grade: 19559
+Model: 
+{'id': '686ad4e1-d4e4-4a93-9573-e4c413db8b84', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [57, 47, 62, 96], 'dense_layers_number': 3, 'dense_neurons': [39, 273, 223], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': 'f3c9c752-7125-404c-82d8-5110b79253b9', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [33, 124, 107], 'dense_layers_number': 5, 'dense_neurons': [314, 57, 54, 345, 98], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': 'a7db3b44-7050-4c58-8045-0bf6da2dadab', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [30, 32], 'dense_layers_number': 3, 'dense_neurons': [222, 253, 45], 'polynomial_exponent': 1}
+Grade: 19725
+Model: 
+{'id': '1ce54de3-f3f2-46d4-a16b-d443414abfdb', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [85, 124, 103, 38], 'dense_layers_number': 4, 'dense_neurons': [210, 21, 168, 398], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': '43036c80-4fec-487e-b8e2-0cf6befe7768', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 71, 48], 'dense_layers_number': 5, 'dense_neurons': [233, 346, 213, 119, 45], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '822f4992-0e4b-42c3-a631-c57dbd38fa0d', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 69, 41, 73], 'dense_layers_number': 4, 'dense_neurons': [47, 132, 222, 347], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': '7ed1e2cc-1aa4-49ab-b395-0be851653f17', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 71, 48], 'dense_layers_number': 5, 'dense_neurons': [97, 383, 144, 265, 398], 'polynomial_exponent': 1}
+Grade: 19796
+Model: 
+{'id': '4a85da31-23cc-403b-850c-9d09d3b0c8ed', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [56, 47, 46], 'dense_layers_number': 4, 'dense_neurons': [122, 233, 168, 398], 'polynomial_exponent': 1}
+Grade: 19598
+Model: 
+{'id': '3d8c6b9f-427f-430a-b77e-332f04cb557f', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 71, 48], 'dense_layers_number': 5, 'dense_neurons': [99, 23, 284, 252, 51], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': 'dbaf994d-cd3a-4d6c-bdc1-84d1e86ee156', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 77, 48], 'dense_layers_number': 4, 'dense_neurons': [222, 68, 55, 189], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': 'e7279d38-2bf3-4acc-8d48-26a7d6d34e14', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 91, 41, 60], 'dense_layers_number': 3, 'dense_neurons': [334, 181, 333], 'polynomial_exponent': 1}
+Grade: 19801
+Model: 
+{'id': 'ec3df883-2b42-4c53-a28b-72afa1e33f71', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [105, 91, 53, 60], 'dense_layers_number': 1, 'dense_neurons': [401], 'polynomial_exponent': 1}
+Grade: 19789
+Model: 
+{'id': '43defd98-9dc1-40dd-a687-84d79caeb6a9', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [105, 48, 53, 73], 'dense_layers_number': 3, 'dense_neurons': [314, 69, 331], 'polynomial_exponent': 3}
+Grade: 19800
+Model: 
+{'id': '1ac463a3-0363-4dbb-9f09-31a623ab0669', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [78, 76, 59, 86], 'dense_layers_number': 3, 'dense_neurons': [39, 248, 346], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '0a117fc8-a5c6-43ae-899e-1cb139204408', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 71, 48], 'dense_layers_number': 2, 'dense_neurons': [160, 227], 'polynomial_exponent': 1}
+Grade: 19790
+Model: 
+{'id': '7247dd3a-c3a6-4daa-8760-03ef1c8df0b9', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [58, 120, 112, 25], 'dense_layers_number': 4, 'dense_neurons': [310, 21, 196, 398], 'polynomial_exponent': 4}
+Grade: 19805
+
+EPOCH 5
+Model: 
+{'id': '12c3d628-3ad0-4ff1-ad60-aefe930dcad7', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 66, 48], 'dense_layers_number': 4, 'dense_neurons': [298, 21, 291, 398], 'polynomial_exponent': 1}
+Grade: 19552
+Model: 
+{'id': 'bd96a2f9-11e7-4ecc-964e-428129350b9a', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 66, 48], 'dense_layers_number': 3, 'dense_neurons': [323, 273, 101], 'polynomial_exponent': 1}
+Grade: 19552
+Model: 
+{'id': '593f8129-fa1e-4dbf-a08c-7551818dddc6', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [105, 91, 41, 73], 'dense_layers_number': 3, 'dense_neurons': [122, 233, 45], 'polynomial_exponent': 1}
+Grade: 19554
+Model: 
+{'id': 'e45b930d-cfc5-42f8-918c-c82e7fab4ad1', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 77, 48], 'dense_layers_number': 5, 'dense_neurons': [39, 264, 346, 117, 393], 'polynomial_exponent': 1}
+Grade: 19559
+Model: 
+{'id': 'a3d46c91-4b8c-4c89-9abc-1a7660bb78ae', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [29, 91, 41, 84], 'dense_layers_number': 4, 'dense_neurons': [298, 273, 291, 398], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '81301efe-1121-4112-80b8-2763761d5b24', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [107], 'dense_layers_number': 3, 'dense_neurons': [80, 248, 45], 'polynomial_exponent': 1}
+Grade: 19805
+Model: 
+{'id': '04f7c2e7-52b5-4739-8fb6-f54a31be73c9', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [61, 103, 99], 'dense_layers_number': 4, 'dense_neurons': [168, 21, 291, 257], 'polynomial_exponent': 1}
+Grade: 19541
+Model: 
+{'id': '2ab1d7c2-d7bf-48fc-a476-10ab37be8925', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [28, 63, 38, 121], 'dense_layers_number': 3, 'dense_neurons': [181, 264, 223], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': '782c312f-a887-4e54-9b31-bedf959d71a6', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [32, 85], 'dense_layers_number': 4, 'dense_neurons': [184, 270, 59, 350], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': 'cede3db5-2a1e-453f-a873-203c61994f34', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [105, 69, 53, 73], 'dense_layers_number': 4, 'dense_neurons': [329, 42, 324, 192], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': '2ce738cd-ec96-405d-8983-3d4b152c5e7e', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [29, 42, 113], 'dense_layers_number': 3, 'dense_neurons': [80, 264, 195], 'polynomial_exponent': 1}
+Grade: 19936
+Model: 
+{'id': '91562071-c07b-495a-ab5d-96a3a70d91ea', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 71, 48], 'dense_layers_number': 4, 'dense_neurons': [256, 109, 352, 93], 'polynomial_exponent': 1}
+Grade: 19805
+Model: 
+{'id': '0b0c567c-3a0c-465e-a0ab-fd4837d13fb1', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 48, 41, 73], 'dense_layers_number': 5, 'dense_neurons': [341, 290, 220, 147, 393], 'polynomial_exponent': 1}
+Grade: 19937
+Model: 
+{'id': '60fe962b-0bbc-4210-aea8-e1f710a759cd', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 48, 41, 60], 'dense_layers_number': 5, 'dense_neurons': [162, 274, 77, 98, 326], 'polynomial_exponent': 1}
+Grade: 19530
+Model: 
+{'id': '9c7b0411-9bc3-4ebc-af03-ac6893357dfb', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 69, 77, 48], 'dense_layers_number': 3, 'dense_neurons': [221, 315, 35], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '7ada999d-7467-4a5b-bbbc-2fd4355a3941', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [107, 93, 87], 'dense_layers_number': 3, 'dense_neurons': [222, 273, 73], 'polynomial_exponent': 1}
+Grade: 19542
+Model: 
+{'id': '9efbafdb-dcf3-47ed-bc99-411b270e602c', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 77, 48], 'dense_layers_number': 5, 'dense_neurons': [223, 226, 173, 93, 120], 'polynomial_exponent': 1}
+Grade: 19936
+Model: 
+{'id': 'f50be80a-0117-40c8-bfb5-2f139b3e1f38', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [105, 48, 53, 48], 'dense_layers_number': 4, 'dense_neurons': [295, 372, 202, 208], 'polynomial_exponent': 1}
+Grade: 19794
+Model: 
+{'id': 'e717ad45-9f46-4aae-9738-02149747563c', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 71, 48], 'dense_layers_number': 1, 'dense_neurons': [154], 'polynomial_exponent': 2}
+Grade: 19795
+Model: 
+{'id': 'b1ed54e4-f6ba-483f-ae1e-33ff42410ae7', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 66, 48], 'dense_layers_number': 4, 'dense_neurons': [124, 135, 195, 121], 'polynomial_exponent': 1}
+Grade: 19935
+
+EPOCH 6
+Model: 
+{'id': '60fe962b-0bbc-4210-aea8-e1f710a759cd', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 48, 41, 60], 'dense_layers_number': 5, 'dense_neurons': [162, 274, 77, 98, 326], 'polynomial_exponent': 1}
+Grade: 19530
+Model: 
+{'id': '04f7c2e7-52b5-4739-8fb6-f54a31be73c9', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [61, 103, 99], 'dense_layers_number': 4, 'dense_neurons': [168, 21, 291, 257], 'polynomial_exponent': 1}
+Grade: 19541
+Model: 
+{'id': '7ada999d-7467-4a5b-bbbc-2fd4355a3941', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [107, 93, 87], 'dense_layers_number': 3, 'dense_neurons': [222, 273, 73], 'polynomial_exponent': 1}
+Grade: 19542
+Model: 
+{'id': '12c3d628-3ad0-4ff1-ad60-aefe930dcad7', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 66, 48], 'dense_layers_number': 4, 'dense_neurons': [298, 21, 291, 398], 'polynomial_exponent': 1}
+Grade: 19552
+Model: 
+{'id': 'e45b930d-cfc5-42f8-918c-c82e7fab4ad1', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 77, 48], 'dense_layers_number': 5, 'dense_neurons': [39, 264, 346, 117, 393], 'polynomial_exponent': 1}
+Grade: 19559
+Model: 
+{'id': '9c7b0411-9bc3-4ebc-af03-ac6893357dfb', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 69, 77, 48], 'dense_layers_number': 3, 'dense_neurons': [221, 315, 35], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': 'ddd1b629-2fd1-4450-bb4b-60cc2f9ba5b0', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 41, 54], 'dense_layers_number': 5, 'dense_neurons': [242, 106, 244, 261, 325], 'polynomial_exponent': 1}
+Grade: 19789
+Model: 
+{'id': '7f9e1912-6bb9-48ac-90ed-a0398cdd1361', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 69, 59, 54], 'dense_layers_number': 2, 'dense_neurons': [135, 79], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': '2e42ca6a-8f63-491c-b6a9-7dcaf5677d74', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [28], 'dense_layers_number': 5, 'dense_neurons': [321, 170, 332, 266, 105], 'polynomial_exponent': 3}
+Grade: 19794
+Model: 
+{'id': '540eecbb-02eb-4401-85fd-2c70fa3b1526', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 48, 41, 54], 'dense_layers_number': 2, 'dense_neurons': [355, 13], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '340bdd4c-d5e7-46d2-b81c-ba2fa7995cdd', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 77, 48], 'dense_layers_number': 3, 'dense_neurons': [23, 257, 208], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': 'c9d4ce2e-a7d2-427d-8caf-5ffd55f07323', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [99, 112], 'dense_layers_number': 4, 'dense_neurons': [259, 315, 163, 398], 'polynomial_exponent': 1}
+Grade: 19797
+Model: 
+{'id': '263c9c6e-94c0-497c-b9f8-39f5a7cdc5e2', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [96, 48, 59, 54], 'dense_layers_number': 5, 'dense_neurons': [231, 244, 381, 33, 101], 'polynomial_exponent': 1}
+Grade: 19794
+Model: 
+{'id': '08cae975-08db-43ad-8443-6c93e7671237', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [93, 48, 88], 'dense_layers_number': 4, 'dense_neurons': [340, 318, 230, 123], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '3bfbcad8-3dfa-4800-b746-3fb6d2642b8c', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [125, 124, 80], 'dense_layers_number': 4, 'dense_neurons': [313, 159, 108, 192], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': 'da1fdd93-a6c1-4997-be68-fda1b3c025b2', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [96, 48, 59, 54], 'dense_layers_number': 5, 'dense_neurons': [81, 18, 370, 327, 342], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': 'be6d6070-c1b7-46c3-907d-40bba20a2dd6', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [107, 93, 82], 'dense_layers_number': 2, 'dense_neurons': [390, 23], 'polynomial_exponent': 1}
+Grade: 19790
+Model: 
+{'id': '5b5423a4-a860-4f4f-9fa3-bdc7f96cf572', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [46, 63, 66, 31], 'dense_layers_number': 5, 'dense_neurons': [130, 289, 346, 117, 393], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': 'b8edd831-9e9b-486e-a8ff-3a4ab3f34c28', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [34, 40, 31, 58], 'dense_layers_number': 5, 'dense_neurons': [269, 33, 370, 105, 87], 'polynomial_exponent': 1}
+Grade: 19794
+Model: 
+{'id': '217f8c68-f411-4b4c-a998-af217ac11931', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [108], 'dense_layers_number': 3, 'dense_neurons': [221, 273, 54], 'polynomial_exponent': 3}
+Grade: 19806
+
+EPOCH 7
+Model: 
+{'id': '60fe962b-0bbc-4210-aea8-e1f710a759cd', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 48, 41, 60], 'dense_layers_number': 5, 'dense_neurons': [162, 274, 77, 98, 326], 'polynomial_exponent': 1}
+Grade: 19530
+Model: 
+{'id': '04f7c2e7-52b5-4739-8fb6-f54a31be73c9', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [61, 103, 99], 'dense_layers_number': 4, 'dense_neurons': [168, 21, 291, 257], 'polynomial_exponent': 1}
+Grade: 19541
+Model: 
+{'id': '7ada999d-7467-4a5b-bbbc-2fd4355a3941', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [107, 93, 87], 'dense_layers_number': 3, 'dense_neurons': [222, 273, 73], 'polynomial_exponent': 1}
+Grade: 19542
+Model: 
+{'id': '12c3d628-3ad0-4ff1-ad60-aefe930dcad7', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 66, 48], 'dense_layers_number': 4, 'dense_neurons': [298, 21, 291, 398], 'polynomial_exponent': 1}
+Grade: 19552
+Model: 
+{'id': '540eecbb-02eb-4401-85fd-2c70fa3b1526', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 48, 41, 54], 'dense_layers_number': 2, 'dense_neurons': [355, 13], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': 'd51104ed-483b-404a-bad0-87ee54ee2d34', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [96, 48, 53, 54], 'dense_layers_number': 2, 'dense_neurons': [305, 53], 'polynomial_exponent': 1}
+Grade: 19788
+Model: 
+{'id': 'd97146ae-673c-415e-9c27-26d42f98ba4e', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [75, 46, 102], 'dense_layers_number': 3, 'dense_neurons': [288, 143, 73], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': '5ac1c092-0ded-470c-9724-ab07882649c8', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [55, 65, 32, 116], 'dense_layers_number': 3, 'dense_neurons': [222, 273, 291], 'polynomial_exponent': 1}
+Grade: 19788
+Model: 
+{'id': 'e08e00c3-e5f5-458b-8ef7-5428c0ea28f3', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [129, 36], 'dense_layers_number': 4, 'dense_neurons': [168, 147, 73, 257], 'polynomial_exponent': 1}
+Grade: 19937
+Model: 
+{'id': '5aab2f49-985d-4036-8ffb-cc879c07b644', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [93, 48, 66, 54], 'dense_layers_number': 2, 'dense_neurons': [213, 386], 'polynomial_exponent': 1}
+Grade: 19562
+Model: 
+{'id': '3a366f42-fa8e-4676-951c-c506ad61db72', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 48, 53, 48], 'dense_layers_number': 4, 'dense_neurons': [281, 226, 74, 99], 'polynomial_exponent': 1}
+Grade: 19937
+Model: 
+{'id': '7c2dff7c-4e6e-4bf1-8db1-d0749e9d2ee7', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [67, 52, 71, 27], 'dense_layers_number': 4, 'dense_neurons': [381, 18, 283, 142], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': '59d90295-23f8-4e8e-abb6-7aecdc1e3ad9', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [35, 79, 21, 104], 'dense_layers_number': 4, 'dense_neurons': [261, 17, 291, 257], 'polynomial_exponent': 1}
+Grade: 19794
+Model: 
+{'id': 'fc5ec8b5-d5df-43db-93d5-5be16c39042a', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [80, 103, 70, 60], 'dense_layers_number': 3, 'dense_neurons': [376, 392, 201], 'polynomial_exponent': 1}
+Grade: 19797
+Model: 
+{'id': '6a63cd66-ac88-4d6e-becf-80a2563ce0ad', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [46, 50], 'dense_layers_number': 4, 'dense_neurons': [261, 13, 291, 257], 'polynomial_exponent': 1}
+Grade: 19791
+Model: 
+{'id': 'f6afef3d-ca99-4341-b18b-1c8abfd63422', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [80, 48, 70, 60], 'dense_layers_number': 2, 'dense_neurons': [27, 244], 'polynomial_exponent': 1}
+Grade: 19555
+Model: 
+{'id': 'a901f871-388b-4dc6-a336-d67caf9c6dd9', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [81, 110], 'dense_layers_number': 5, 'dense_neurons': [230, 274, 184, 398, 326], 'polynomial_exponent': 3}
+Grade: 19808
+Model: 
+{'id': '718e2604-b31c-4fef-a3c4-b6141f2be2c6', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [114, 48], 'dense_layers_number': 4, 'dense_neurons': [298, 21, 291, 327], 'polynomial_exponent': 1}
+Grade: 19526
+Model: 
+{'id': '0acb36f9-f250-4330-8e6d-29a835689586', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [103, 48, 64], 'dense_layers_number': 2, 'dense_neurons': [216, 264], 'polynomial_exponent': 1}
+Grade: 19901
+Model: 
+{'id': '6aacb0cc-813a-43e2-88ab-72706ce03805', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [93, 70, 76], 'dense_layers_number': 5, 'dense_neurons': [352, 56, 34, 332, 304], 'polynomial_exponent': 1}
+Grade: 19586
+
+EPOCH 8
+Model: 
+{'id': '718e2604-b31c-4fef-a3c4-b6141f2be2c6', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [114, 48], 'dense_layers_number': 4, 'dense_neurons': [298, 21, 291, 327], 'polynomial_exponent': 1}
+Grade: 19526
+Model: 
+{'id': '60fe962b-0bbc-4210-aea8-e1f710a759cd', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 48, 41, 60], 'dense_layers_number': 5, 'dense_neurons': [162, 274, 77, 98, 326], 'polynomial_exponent': 1}
+Grade: 19530
+Model: 
+{'id': '04f7c2e7-52b5-4739-8fb6-f54a31be73c9', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [61, 103, 99], 'dense_layers_number': 4, 'dense_neurons': [168, 21, 291, 257], 'polynomial_exponent': 1}
+Grade: 19541
+Model: 
+{'id': '7ada999d-7467-4a5b-bbbc-2fd4355a3941', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [107, 93, 87], 'dense_layers_number': 3, 'dense_neurons': [222, 273, 73], 'polynomial_exponent': 1}
+Grade: 19542
+Model: 
+{'id': '05cd132a-a0f8-4560-af55-1095b0714cdd', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [84, 93, 99], 'dense_layers_number': 5, 'dense_neurons': [222, 373, 64, 32, 399], 'polynomial_exponent': 1}
+Grade: 19543
+Model: 
+{'id': 'd3a8ea97-cb4d-4411-8bdd-86c2dccff074', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [54, 23, 129], 'dense_layers_number': 5, 'dense_neurons': [216, 98, 267, 268, 220], 'polynomial_exponent': 3}
+Grade: 19806
+Model: 
+{'id': '0fd80334-be5c-4708-b6bc-6e68cd328c6a', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [57, 92, 95, 90], 'dense_layers_number': 5, 'dense_neurons': [374, 42, 328, 44, 162], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': '88ad66e3-0c12-4d7e-b92b-63269b50e16e', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [107, 93], 'dense_layers_number': 1, 'dense_neurons': [80], 'polynomial_exponent': 1}
+Grade: 19806
+Model: 
+{'id': '382f7dee-24d8-4cb3-be9b-8db9e7f12c83', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [61, 75], 'dense_layers_number': 1, 'dense_neurons': [141], 'polynomial_exponent': 1}
+Grade: 19789
+Model: 
+{'id': '0c3d5ae6-f323-4035-9820-4c182b6b33fd', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [117, 80, 77], 'dense_layers_number': 4, 'dense_neurons': [73, 102, 310, 223], 'polynomial_exponent': 1}
+Grade: 19542
+Model: 
+{'id': '06848e89-df76-411e-bb06-589e5bf8319c', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [106, 113, 108], 'dense_layers_number': 1, 'dense_neurons': [192], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '8c588edd-3e25-465e-b757-f4b620831cf9', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [41, 92, 70, 65], 'dense_layers_number': 3, 'dense_neurons': [338, 99, 363], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': 'd3acbbb9-d921-4009-a36a-2b47b4dee4e5', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [123, 21, 100, 88], 'dense_layers_number': 4, 'dense_neurons': [298, 273, 182, 327], 'polynomial_exponent': 1}
+Grade: 19802
+Model: 
+{'id': '34cb4225-e968-4840-a069-1339d682e4c6', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [84, 103, 87], 'dense_layers_number': 4, 'dense_neurons': [176, 265, 148, 296], 'polynomial_exponent': 3}
+Grade: 19803
+Model: 
+{'id': '88ab2d02-152d-481a-aec7-4eb99e45426e', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [76, 23, 16, 96], 'dense_layers_number': 4, 'dense_neurons': [312, 251, 243, 96], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': 'd7b0ebdc-66c4-4095-9fc1-ef52600fd188', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [61, 103, 87], 'dense_layers_number': 3, 'dense_neurons': [97, 106, 198], 'polynomial_exponent': 1}
+Grade: 19794
+Model: 
+{'id': '41e810d4-f2b5-4c59-93f2-7eee736f4e82', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [42, 75, 102], 'dense_layers_number': 5, 'dense_neurons': [171, 342, 320, 102, 252], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': '013f952f-7e17-4c51-b562-9b854433630e', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [124, 103, 62], 'dense_layers_number': 5, 'dense_neurons': [162, 21, 184, 98, 326], 'polynomial_exponent': 1}
+Grade: 19531
+Model: 
+{'id': 'c10ea19f-7bdc-4b14-bde9-d5717da03da7', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [110, 70], 'dense_layers_number': 3, 'dense_neurons': [28, 91, 234], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '72b22de1-46e2-4c2c-b88a-c272ba7d223b', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [107, 98, 93], 'dense_layers_number': 1, 'dense_neurons': [168], 'polynomial_exponent': 3}
+Grade: 19805
+
+EPOCH 9
+Model: 
+{'id': '718e2604-b31c-4fef-a3c4-b6141f2be2c6', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [114, 48], 'dense_layers_number': 4, 'dense_neurons': [298, 21, 291, 327], 'polynomial_exponent': 1}
+Grade: 19526
+Model: 
+{'id': '60fe962b-0bbc-4210-aea8-e1f710a759cd', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 48, 41, 60], 'dense_layers_number': 5, 'dense_neurons': [162, 274, 77, 98, 326], 'polynomial_exponent': 1}
+Grade: 19530
+Model: 
+{'id': '013f952f-7e17-4c51-b562-9b854433630e', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [124, 103, 62], 'dense_layers_number': 5, 'dense_neurons': [162, 21, 184, 98, 326], 'polynomial_exponent': 1}
+Grade: 19531
+Model: 
+{'id': '04f7c2e7-52b5-4739-8fb6-f54a31be73c9', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [61, 103, 99], 'dense_layers_number': 4, 'dense_neurons': [168, 21, 291, 257], 'polynomial_exponent': 1}
+Grade: 19541
+Model: 
+{'id': '0fd80334-be5c-4708-b6bc-6e68cd328c6a', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [57, 92, 95, 90], 'dense_layers_number': 5, 'dense_neurons': [374, 42, 328, 44, 162], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': '4e39da8d-9c2a-4194-a564-daf41accb336', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [88], 'dense_layers_number': 4, 'dense_neurons': [374, 21, 309, 257], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': '178c0fa5-288d-4e49-b45e-82de50b44374', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [32, 62, 82], 'dense_layers_number': 2, 'dense_neurons': [100, 95], 'polynomial_exponent': 2}
+Grade: 19795
+Model: 
+{'id': '41ebe5b2-1d1b-4c1b-8b84-a4550fa700a3', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [114, 91, 49], 'dense_layers_number': 5, 'dense_neurons': [165, 21, 184, 177, 326], 'polynomial_exponent': 1}
+Grade: 19801
+Model: 
+{'id': 'a033d390-d332-4150-ab73-d2b24dfe35c7', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [17, 84, 53], 'dense_layers_number': 5, 'dense_neurons': [274, 373, 157, 352, 69], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '21729ed9-7098-44f9-ad98-616ad7ee1e13', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [87, 103], 'dense_layers_number': 2, 'dense_neurons': [191, 401], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': '2c5dc4c4-d704-432d-b91c-4091f890b1bd', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [25, 117, 122], 'dense_layers_number': 2, 'dense_neurons': [257, 112], 'polynomial_exponent': 1}
+Grade: 19790
+Model: 
+{'id': '0f3673d2-813a-45b3-97cc-317a5c7002db', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [37, 93, 36], 'dense_layers_number': 3, 'dense_neurons': [320, 311, 23], 'polynomial_exponent': 2}
+Grade: 19801
+Model: 
+{'id': '8042d4cc-97a6-4ffc-bd41-8398aecfdf01', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [52, 108], 'dense_layers_number': 4, 'dense_neurons': [298, 42, 328, 327], 'polynomial_exponent': 1}
+Grade: 19540
+Model: 
+{'id': 'bed640f2-5924-4868-b48e-5699c06a116a', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [53, 45, 54], 'dense_layers_number': 4, 'dense_neurons': [350, 226, 341, 75], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': 'ff998ade-3f20-4f7d-8537-cf5e043e1b6b', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [92, 77, 35, 38], 'dense_layers_number': 4, 'dense_neurons': [162, 147, 77, 327], 'polynomial_exponent': 1}
+Grade: 19794
+Model: 
+{'id': 'ca88f79b-01b1-40b2-8b7e-9a006cbe1713', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [110, 105, 51], 'dense_layers_number': 4, 'dense_neurons': [374, 31, 291, 150], 'polynomial_exponent': 1}
+Grade: 19794
+Model: 
+{'id': 'd5e02820-81d3-49fc-8728-2e65524c4c7a', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [20, 112], 'dense_layers_number': 4, 'dense_neurons': [230, 147, 184, 327], 'polynomial_exponent': 2}
+Grade: 19792
+Model: 
+{'id': 'bca2e24d-6e92-4375-b167-576450c3f56f', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [124, 103, 78], 'dense_layers_number': 1, 'dense_neurons': [181], 'polynomial_exponent': 3}
+Grade: 19800
+Model: 
+{'id': '526ab29a-73fa-4326-9685-47bb8e659162', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [124, 48], 'dense_layers_number': 2, 'dense_neurons': [17, 280], 'polynomial_exponent': 1}
+Grade: 19936
+Model: 
+{'id': '7aa4eb18-5c63-4f5b-a813-3d236e12e2de', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [49, 23, 86], 'dense_layers_number': 3, 'dense_neurons': [130, 57, 118], 'polynomial_exponent': 4}
+Grade: 19806
+
+EPOCH 10
+Model: 
+{'id': '718e2604-b31c-4fef-a3c4-b6141f2be2c6', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [114, 48], 'dense_layers_number': 4, 'dense_neurons': [298, 21, 291, 327], 'polynomial_exponent': 1}
+Grade: 19526
+Model: 
+{'id': '60fe962b-0bbc-4210-aea8-e1f710a759cd', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 48, 41, 60], 'dense_layers_number': 5, 'dense_neurons': [162, 274, 77, 98, 326], 'polynomial_exponent': 1}
+Grade: 19530
+Model: 
+{'id': '013f952f-7e17-4c51-b562-9b854433630e', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [124, 103, 62], 'dense_layers_number': 5, 'dense_neurons': [162, 21, 184, 98, 326], 'polynomial_exponent': 1}
+Grade: 19531
+Model: 
+{'id': '8042d4cc-97a6-4ffc-bd41-8398aecfdf01', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [52, 108], 'dense_layers_number': 4, 'dense_neurons': [298, 42, 328, 327], 'polynomial_exponent': 1}
+Grade: 19540
+Model: 
+{'id': '41ebe5b2-1d1b-4c1b-8b84-a4550fa700a3', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [114, 91, 49], 'dense_layers_number': 5, 'dense_neurons': [165, 21, 184, 177, 326], 'polynomial_exponent': 1}
+Grade: 19793
+Model: 
+{'id': 'ca31a4ab-a810-48a0-b926-94cf9c91ff5d', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [88], 'dense_layers_number': 4, 'dense_neurons': [374, 21, 309, 257], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': 'ed42930c-ba6d-4ba2-9ad1-7fd63d348673', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [88, 48], 'dense_layers_number': 2, 'dense_neurons': [105, 317], 'polynomial_exponent': 2}
+Grade: 19806
+Model: 
+{'id': '0509621f-246e-4caa-b876-941895379e75', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [57, 98], 'dense_layers_number': 4, 'dense_neurons': [137, 154, 21, 52], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': '6462ea14-6977-4bfb-8347-d26081492945', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [83, 52], 'dense_layers_number': 5, 'dense_neurons': [165, 21, 246, 257, 326], 'polynomial_exponent': 2}
+Grade: 19804
+Model: 
+{'id': '7031835f-bd40-43a8-8498-b3faef7eb364', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [47, 114, 63], 'dense_layers_number': 5, 'dense_neurons': [162, 21, 184, 137, 326], 'polynomial_exponent': 1}
+Grade: 19793
+Model: 
+{'id': '902986be-467b-4435-876d-8e8e1baa3e75', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [66, 37], 'dense_layers_number': 4, 'dense_neurons': [115, 80, 123, 196], 'polynomial_exponent': 1}
+Grade: 19793
+Model: 
+{'id': '87b440b2-7c90-4736-ac97-afea9d6a1ad7', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [47, 19, 76], 'dense_layers_number': 4, 'dense_neurons': [231, 42, 328, 327], 'polynomial_exponent': 1}
+Grade: 19798
+Model: 
+{'id': 'e507fd63-45ae-4722-bab6-291fe6867f7e', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [83, 48, 127, 55], 'dense_layers_number': 4, 'dense_neurons': [308, 258, 241, 338], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '53900dd4-b089-4bc7-9d94-e75650fd4aeb', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [22, 50], 'dense_layers_number': 4, 'dense_neurons': [393, 233, 251, 20], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': '652c5758-a17d-4ece-b58c-ecaf2650f833', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [111, 75, 51, 60], 'dense_layers_number': 1, 'dense_neurons': [288], 'polynomial_exponent': 1}
+Grade: 19790
+Model: 
+{'id': '67e0847c-0daf-4abf-a346-d9d90f039132', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [82], 'dense_layers_number': 5, 'dense_neurons': [162, 21, 246, 257, 326], 'polynomial_exponent': 1}
+Grade: 19794
+Model: 
+{'id': '3e2a0a01-dd48-4a13-84cd-7837bdc7be71', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [115, 91], 'dense_layers_number': 5, 'dense_neurons': [268, 274, 193, 177, 326], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '988b9cde-f889-4f1f-85f9-41a016b20f87', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [69, 49], 'dense_layers_number': 5, 'dense_neurons': [163, 274, 130, 177, 326], 'polynomial_exponent': 1}
+Grade: 19799
+Model: 
+{'id': '0f7b2e30-5bae-4778-8f76-833b0da81fde', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [107, 54, 27], 'dense_layers_number': 4, 'dense_neurons': [165, 31, 184, 252], 'polynomial_exponent': 1}
+Grade: 19800
+Model: 
+{'id': '9d9e501e-31dc-4850-ae91-4456d6f6baa5', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [123, 43], 'dense_layers_number': 4, 'dense_neurons': [298, 31, 318, 292], 'polynomial_exponent': 2}
+Grade: 19791
+
+EPOCH 11
+Model: 
+{'id': '718e2604-b31c-4fef-a3c4-b6141f2be2c6', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [114, 48], 'dense_layers_number': 4, 'dense_neurons': [298, 21, 291, 327], 'polynomial_exponent': 1}
+Grade: 19526
+Model: 
+{'id': '60fe962b-0bbc-4210-aea8-e1f710a759cd', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 48, 41, 60], 'dense_layers_number': 5, 'dense_neurons': [162, 274, 77, 98, 326], 'polynomial_exponent': 1}
+Grade: 19530
+Model: 
+{'id': '013f952f-7e17-4c51-b562-9b854433630e', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [124, 103, 62], 'dense_layers_number': 5, 'dense_neurons': [162, 21, 184, 98, 326], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '8042d4cc-97a6-4ffc-bd41-8398aecfdf01', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [52, 108], 'dense_layers_number': 4, 'dense_neurons': [298, 42, 328, 327], 'polynomial_exponent': 1}
+Grade: 19540
+Model: 
+{'id': 'ba22286b-596f-4ac7-aa02-46b5c74e0187', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 108, 41, 60], 'dense_layers_number': 2, 'dense_neurons': [222, 118], 'polynomial_exponent': 1}
+Grade: 19792
+Model: 
+{'id': '3bee8aef-ceaa-4ac8-b4c2-366c8f6a368b', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [119, 75], 'dense_layers_number': 2, 'dense_neurons': [321, 313], 'polynomial_exponent': 2}
+Grade: 19800
+Model: 
+{'id': 'b87e50a2-4af1-457b-a30a-5e7fe0546c10', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [119, 103], 'dense_layers_number': 5, 'dense_neurons': [332, 288, 133, 219, 352], 'polynomial_exponent': 1}
+Grade: 19782
+Model: 
+{'id': 'dd6fb2f0-14fb-45e3-af2e-44c7b0daa70a', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [54], 'dense_layers_number': 5, 'dense_neurons': [38, 86, 64, 194, 266], 'polynomial_exponent': 2}
+Grade: 19798
+Model: 
+{'id': '1ddca607-0ba2-46e5-a9f5-404d35be35ee', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [83, 78], 'dense_layers_number': 2, 'dense_neurons': [238, 364], 'polynomial_exponent': 1}
+Grade: 19806
+Model: 
+{'id': 'e6da627a-aabd-4a48-9573-1abfdad74bfc', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [19, 37], 'dense_layers_number': 4, 'dense_neurons': [230, 21, 237, 98], 'polynomial_exponent': 1}
+Grade: 19795
+Model: 
+{'id': '2102419c-b0e7-46d2-9000-b5d281ee29d2', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [108, 121], 'dense_layers_number': 1, 'dense_neurons': [325], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': 'ec5aa66b-c09a-4f43-a7fd-c0edc34f8bd7', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [20, 47, 89], 'dense_layers_number': 2, 'dense_neurons': [204, 108], 'polynomial_exponent': 1}
+Grade: 19793
+Model: 
+{'id': '2172274e-476f-430a-aba7-42147e048d00', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [106, 118, 35], 'dense_layers_number': 5, 'dense_neurons': [162, 21, 184, 98, 326], 'polynomial_exponent': 2}
+Grade: 19803
+Model: 
+{'id': 'b71966f2-9545-440b-bd82-1ea413dfa9e6', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [57, 95, 103], 'dense_layers_number': 5, 'dense_neurons': [256, 92, 205, 157, 10], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': 'd11f6adc-8974-4b42-a748-082f56fd1897', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [24, 119], 'dense_layers_number': 4, 'dense_neurons': [74, 119, 370, 392], 'polynomial_exponent': 2}
+Grade: 19543
+Model: 
+{'id': '11c9dbb3-210d-4eb0-93d6-500ed3053577', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [125], 'dense_layers_number': 4, 'dense_neurons': [298, 31, 328, 327], 'polynomial_exponent': 4}
+Grade: 19803
+Model: 
+{'id': 'bbad133a-0890-4c72-861c-aa8d97f69b4c', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [124, 62], 'dense_layers_number': 4, 'dense_neurons': [298, 21, 184, 327], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': 'f191b95e-128a-4514-9ed6-16f0331ddc13', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [111, 48, 41, 60], 'dense_layers_number': 4, 'dense_neurons': [17, 366, 152, 130], 'polynomial_exponent': 3}
+Grade: 19794
+Model: 
+{'id': '9921bedc-a3ef-49fd-bc38-ec026e76b3e0', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [52, 78], 'dense_layers_number': 4, 'dense_neurons': [28, 187, 92, 136], 'polynomial_exponent': 1}
+Grade: 19519
+Model: 
+{'id': '05542f7f-8699-49b6-b773-4523390ad65f', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [52, 108, 62], 'dense_layers_number': 5, 'dense_neurons': [131, 230, 244, 315, 304], 'polynomial_exponent': 4}
+Grade: 19805
+
+EPOCH 12
+Model: 
+{'id': '9921bedc-a3ef-49fd-bc38-ec026e76b3e0', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [52, 78], 'dense_layers_number': 4, 'dense_neurons': [28, 187, 92, 136], 'polynomial_exponent': 1}
+Grade: 19519
+Model: 
+{'id': '718e2604-b31c-4fef-a3c4-b6141f2be2c6', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [114, 48], 'dense_layers_number': 4, 'dense_neurons': [298, 21, 291, 327], 'polynomial_exponent': 1}
+Grade: 19526
+Model: 
+{'id': '60fe962b-0bbc-4210-aea8-e1f710a759cd', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 48, 41, 60], 'dense_layers_number': 5, 'dense_neurons': [162, 274, 77, 98, 326], 'polynomial_exponent': 1}
+Grade: 19530
+Model: 
+{'id': '8042d4cc-97a6-4ffc-bd41-8398aecfdf01', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [52, 108], 'dense_layers_number': 4, 'dense_neurons': [298, 42, 328, 327], 'polynomial_exponent': 1}
+Grade: 19540
+Model: 
+{'id': '827a40bd-0877-4385-8b74-ce48a38d74c5', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [53, 93, 76, 36], 'dense_layers_number': 4, 'dense_neurons': [95, 230, 84, 117], 'polynomial_exponent': 2}
+Grade: 19805
+Model: 
+{'id': '5cf7bc89-99ea-448a-a5b2-0e7b57f536d1', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [52, 93], 'dense_layers_number': 4, 'dense_neurons': [271, 309, 177, 193], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': 'd60fd94c-8b08-4905-a357-eee85ae192d4', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [78, 51, 106, 27], 'dense_layers_number': 5, 'dense_neurons': [230, 42, 328, 327, 326], 'polynomial_exponent': 1}
+Grade: 19529
+Model: 
+{'id': '348e9dc6-0c96-4c93-808c-e30ab20860c3', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [52, 93], 'dense_layers_number': 4, 'dense_neurons': [291, 68, 389, 28], 'polynomial_exponent': 4}
+Grade: 19805
+Model: 
+{'id': 'c70f642e-bef7-44ef-896b-80745ebcdb95', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [52, 78], 'dense_layers_number': 3, 'dense_neurons': [300, 79, 245], 'polynomial_exponent': 1}
+Grade: 19547
+Model: 
+{'id': '302a4386-8732-424f-946c-357af7b60e65', 'epochs': 25, 'lstm_layers_number': 3, 'lstm_neurons': [62, 53, 93], 'dense_layers_number': 3, 'dense_neurons': [188, 351, 203], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '0af8c783-02eb-4301-9439-2ae2345c5c6a', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [38, 93], 'dense_layers_number': 4, 'dense_neurons': [298, 114, 92, 231], 'polynomial_exponent': 1}
+Grade: 19873
+Model: 
+{'id': 'b1845715-122c-4838-8055-e47c91ca5c5b', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [99, 78, 41, 60], 'dense_layers_number': 4, 'dense_neurons': [80, 381, 50, 137], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '81475326-bfaf-48f2-a8fe-6fb6766a19c6', 'epochs': 25, 'lstm_layers_number': 1, 'lstm_neurons': [44], 'dense_layers_number': 4, 'dense_neurons': [298, 104, 191, 136], 'polynomial_exponent': 1}
+Grade: 19806
+Model: 
+{'id': '8fbad512-0ba4-48cd-b6df-1da516bb37c6', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [83, 78], 'dense_layers_number': 2, 'dense_neurons': [149, 115], 'polynomial_exponent': 2}
+Grade: 19779
+Model: 
+{'id': 'e50e2e94-5529-449f-b768-c68b2cec2fb2', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [114, 78], 'dense_layers_number': 4, 'dense_neurons': [230, 42, 337, 199], 'polynomial_exponent': 3}
+Grade: 19805
+Model: 
+{'id': '19f70d2b-0812-44ac-a1bf-99a9e228c12d', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [83, 78], 'dense_layers_number': 4, 'dense_neurons': [206, 70, 143, 47], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '287e60af-0c2c-4225-954d-2381111ffe90', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [57, 114, 106, 53], 'dense_layers_number': 4, 'dense_neurons': [162, 147, 184, 327], 'polynomial_exponent': 1}
+Grade: 19805
+Model: 
+{'id': 'b72b4939-3890-44cc-9c8b-534f9b624d4c', 'epochs': 25, 'lstm_layers_number': 2, 'lstm_neurons': [83, 78], 'dense_layers_number': 4, 'dense_neurons': [14, 207, 20, 21], 'polynomial_exponent': 4}
+Grade: 19806
+Model: 
+{'id': '26ffa951-6bfa-47cf-b48c-a318adab7bb4', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [42, 110, 120, 72], 'dense_layers_number': 4, 'dense_neurons': [298, 42, 309, 327], 'polynomial_exponent': 1}
+Grade: 19936
+Model: 
+{'id': '9a6ecd39-bd90-495f-8917-7a83506cd4e8', 'epochs': 25, 'lstm_layers_number': 4, 'lstm_neurons': [45, 68, 129, 111], 'dense_layers_number': 4, 'dense_neurons': [77, 371, 368, 288], 'polynomial_exponent': 3}
+Grade: 19805
