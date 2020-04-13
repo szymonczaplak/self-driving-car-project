@@ -78,17 +78,17 @@ class Game:
                 car.angle = (car.angle + 2) % 360
 
             current_state.append(choice)
-            if choice != 'straight':
-                states.append(current_state)
+            # if choice != 'straight':
+            states.append(current_state)
 
-            if len(states) > 2000:
+            if len(states) > 7000:
                 break
             self.clock.tick(self.ticks)
         pygame.quit()
 
-        # with open("output4_right_circle.csv", "w+") as f:
-        #     writer = csv.writer(f)
-        #     writer.writerows(states)
+        with open("output_map_1_left_circle.csv", "w+") as f:
+            writer = csv.writer(f)
+            writer.writerows(states)
 
 
 if __name__ == '__main__':

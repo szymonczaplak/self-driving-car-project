@@ -8,6 +8,7 @@ from Car import Car
 from Map import Map
 from Map2 import Map2
 
+
 class Game:
     def __init__(self):
         pygame.init()
@@ -24,12 +25,14 @@ class Game:
         image_path = os.path.join(current_dir, "car.png")
         car_image = pygame.image.load(image_path)
         scale = 40
-        car = Car(6 * scale, 5 * scale, angle=70)
+        car = Car(5 * scale, 3 * scale, angle=70)
         map = Map(scale)
         agent = Agent()
 
+        vec_history = []
+        history_length = agent.history_length
         while not self.exit:
-            # print(car.position, car.angle)
+           # print(car.position, car.angle)
 
             # Event queue
             for event in pygame.event.get():
@@ -45,15 +48,13 @@ class Game:
 
             # draw inside
 
-            distance_vec = []
-
             distance_point_tuples = car.calculate_distances(map)
             for distance, point in distance_point_tuples:
                 print(f"Distance: {distance}")
-                distance_vec.append(distance)
+                vec_history.append(distance)
                 if distance < 10:
                     # COLISION!
-                    car = Car(6 * scale, 5 * scale)
+                    car = Car(3 * scale, 5 * scale, angle = 270)
                 pygame.draw.circle(self.screen, [255, 0, 0], [int(el) for el in point], 5)
 
             rotated = pygame.transform.rotate(car_image, car.angle)
@@ -61,10 +62,14 @@ class Game:
             self.screen.blit(rotated, car.position - (rect.width / 2, rect.height / 2))
             pygame.display.flip()
 
-            # User input
-            pressed = pygame.key.get_pressed()
+            if len(vec_history) > history_length:
+                vec_history = vec_history[5:]
 
-            choice = agent.get_choice(np.array(distance_vec).reshape(1, -1))
+            # User input
+            if len(vec_history) == history_length:
+                choice = agent.get_choice(np.array(vec_history).reshape(1, -1))
+            else:
+                choice = 2
 
             if choice == 1:
                 car.angle = (car.angle - 2) % 360
